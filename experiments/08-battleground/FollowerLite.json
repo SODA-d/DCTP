@@ -1,0 +1,542 @@
+[
+    {
+        "metrics": {
+            "avg_throughput": 3.876953125,
+            "ISR2": 256,
+            "ISR3": 255,
+            "ISR4": 246,
+            "ISR5": 190,
+            "ISR10": 6,
+            "avg_agents_density": 0.05733458702709192,
+            "runtime": 17.014838609466096
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 0
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.78125,
+            "ISR2": 256,
+            "ISR3": 255,
+            "ISR4": 238,
+            "ISR5": 185,
+            "ISR10": 10,
+            "avg_agents_density": 0.05893010991188381,
+            "runtime": 16.670242036605487
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 1
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 4.25390625,
+            "ISR2": 256,
+            "ISR3": 256,
+            "ISR4": 245,
+            "ISR5": 202,
+            "ISR10": 8,
+            "avg_agents_density": 0.056757772904062954,
+            "runtime": 17.21611652316642
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 2
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.205078125,
+            "ISR2": 256,
+            "ISR3": 255,
+            "ISR4": 245,
+            "ISR5": 198,
+            "ISR10": 9,
+            "avg_agents_density": 0.05903020563614549,
+            "runtime": 16.75423375199898
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 3
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.314453125,
+            "ISR2": 256,
+            "ISR3": 254,
+            "ISR4": 245,
+            "ISR5": 203,
+            "ISR10": 6,
+            "avg_agents_density": 0.05781085200713058,
+            "runtime": 16.818465234013274
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 4
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 4.4140625,
+            "ISR2": 256,
+            "ISR3": 256,
+            "ISR4": 250,
+            "ISR5": 204,
+            "ISR10": 6,
+            "avg_agents_density": 0.05605945774074802,
+            "runtime": 17.383299701177748
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 5
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.984375,
+            "ISR2": 256,
+            "ISR3": 256,
+            "ISR4": 245,
+            "ISR5": 190,
+            "ISR10": 7,
+            "avg_agents_density": 0.05827354674646836,
+            "runtime": 21.904677436075872
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 6
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.845703125,
+            "ISR2": 256,
+            "ISR3": 256,
+            "ISR4": 241,
+            "ISR5": 189,
+            "ISR10": 8,
+            "avg_agents_density": 0.0587754347198558,
+            "runtime": 21.773721491685137
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 7
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.1875,
+            "ISR2": 256,
+            "ISR3": 255,
+            "ISR4": 243,
+            "ISR5": 203,
+            "ISR10": 7,
+            "avg_agents_density": 0.057848809575436845,
+            "runtime": 22.224600204091985
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 8
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.8515625,
+            "ISR2": 256,
+            "ISR3": 256,
+            "ISR4": 247,
+            "ISR5": 211,
+            "ISR10": 10,
+            "avg_agents_density": 0.05657529496055498,
+            "runtime": 22.05934618911124
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 256,
+            "seed": 9
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 6.982421875,
+            "ISR2": 509,
+            "ISR3": 503,
+            "ISR4": 438,
+            "ISR5": 301,
+            "ISR10": 11,
+            "avg_agents_density": 0.11737634269181725,
+            "runtime": 44.63602374208858
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 0
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 6.84375,
+            "ISR2": 510,
+            "ISR3": 487,
+            "ISR4": 418,
+            "ISR5": 273,
+            "ISR10": 16,
+            "avg_agents_density": 0.1197726008429898,
+            "runtime": 44.45052038459107
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 1
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 6.787109375,
+            "ISR2": 506,
+            "ISR3": 494,
+            "ISR4": 416,
+            "ISR5": 300,
+            "ISR10": 15,
+            "avg_agents_density": 0.11760441660292177,
+            "runtime": 44.77568612250616
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 2
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 6.7421875,
+            "ISR2": 503,
+            "ISR3": 477,
+            "ISR4": 413,
+            "ISR5": 295,
+            "ISR10": 17,
+            "avg_agents_density": 0.12203164254935742,
+            "runtime": 43.807308089744765
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 3
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 6.10546875,
+            "ISR2": 494,
+            "ISR3": 480,
+            "ISR4": 425,
+            "ISR5": 300,
+            "ISR10": 13,
+            "avg_agents_density": 0.12428196750586167,
+            "runtime": 44.72392220218899
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 4
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 7.642578125,
+            "ISR2": 507,
+            "ISR3": 495,
+            "ISR4": 426,
+            "ISR5": 321,
+            "ISR10": 17,
+            "avg_agents_density": 0.11590346668757934,
+            "runtime": 45.24282331255381
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 5
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 6.20703125,
+            "ISR2": 502,
+            "ISR3": 481,
+            "ISR4": 411,
+            "ISR5": 280,
+            "ISR10": 11,
+            "avg_agents_density": 0.1233096652071493,
+            "runtime": 42.60835478169611
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 6
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 7.099609375,
+            "ISR2": 506,
+            "ISR3": 486,
+            "ISR4": 417,
+            "ISR5": 302,
+            "ISR10": 18,
+            "avg_agents_density": 0.1190313967278243,
+            "runtime": 42.00504149819608
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 7
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 5.943359375,
+            "ISR2": 508,
+            "ISR3": 490,
+            "ISR4": 429,
+            "ISR5": 314,
+            "ISR10": 14,
+            "avg_agents_density": 0.11826245253890431,
+            "runtime": 42.01584586800891
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 8
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 7.560546875,
+            "ISR2": 508,
+            "ISR3": 493,
+            "ISR4": 429,
+            "ISR5": 321,
+            "ISR10": 17,
+            "avg_agents_density": 0.11710415209626475,
+            "runtime": 42.55208676090115
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 512,
+            "seed": 9
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.462890625,
+            "ISR2": 857,
+            "ISR3": 661,
+            "ISR4": 441,
+            "ISR5": 235,
+            "ISR10": 20,
+            "avg_agents_density": 0.25746545943524135,
+            "runtime": 78.32393815074465
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 0
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 10.384765625,
+            "ISR2": 847,
+            "ISR3": 652,
+            "ISR4": 421,
+            "ISR5": 237,
+            "ISR10": 33,
+            "avg_agents_density": 0.26295875810232217,
+            "runtime": 80.47106621460989
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 1
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.142578125,
+            "ISR2": 856,
+            "ISR3": 651,
+            "ISR4": 413,
+            "ISR5": 208,
+            "ISR10": 29,
+            "avg_agents_density": 0.2512340128300448,
+            "runtime": 78.12490094528766
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 2
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.58203125,
+            "ISR2": 852,
+            "ISR3": 676,
+            "ISR4": 451,
+            "ISR5": 231,
+            "ISR10": 34,
+            "avg_agents_density": 0.255056903870699,
+            "runtime": 77.84833585345768
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 3
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.609375,
+            "ISR2": 839,
+            "ISR3": 682,
+            "ISR4": 462,
+            "ISR5": 255,
+            "ISR10": 29,
+            "avg_agents_density": 0.26210354637862404,
+            "runtime": 77.65621782388189
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 4
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 10.521484375,
+            "ISR2": 861,
+            "ISR3": 709,
+            "ISR4": 474,
+            "ISR5": 253,
+            "ISR10": 31,
+            "avg_agents_density": 0.24740635053172128,
+            "runtime": 79.03203990717884
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 5
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.0625,
+            "ISR2": 867,
+            "ISR3": 701,
+            "ISR4": 461,
+            "ISR5": 242,
+            "ISR10": 26,
+            "avg_agents_density": 0.2515436997380185,
+            "runtime": 79.33227787131909
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 6
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 11.19140625,
+            "ISR2": 838,
+            "ISR3": 667,
+            "ISR4": 450,
+            "ISR5": 255,
+            "ISR10": 35,
+            "avg_agents_density": 0.257394102906725,
+            "runtime": 78.63461945008021
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 7
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.357421875,
+            "ISR2": 848,
+            "ISR3": 655,
+            "ISR4": 433,
+            "ISR5": 241,
+            "ISR10": 28,
+            "avg_agents_density": 0.25790749604707597,
+            "runtime": 78.76688685605768
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 8
+        },
+        "algorithm": "FollowerLite"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 9.05078125,
+            "ISR2": 822,
+            "ISR3": 612,
+            "ISR4": 372,
+            "ISR5": 201,
+            "ISR10": 28,
+            "avg_agents_density": 0.26451097475845914,
+            "runtime": 79.81169440833037
+        },
+        "env_grid_search": {
+            "map_name": "battleground",
+            "num_agents": 1024,
+            "seed": 9
+        },
+        "algorithm": "FollowerLite"
+    }
+]

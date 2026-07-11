@@ -1,0 +1,1022 @@
+[
+    {
+        "metrics": {
+            "avg_throughput": 0.908203125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.049025243053800655,
+            "runtime": 3.7966704113641754
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 0
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.900390625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.04649894225304912,
+            "runtime": 3.7801792646059766
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 1
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.939453125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.05293714361158856,
+            "runtime": 3.7850245947483927
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 2
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.943359375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.047700802277287006,
+            "runtime": 3.794160852441564
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 3
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.94921875,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.04719455020177196,
+            "runtime": 3.6527493379544467
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 4
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.92578125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 31,
+            "avg_agents_density": 0.04782547475318504,
+            "runtime": 3.7324160477146506
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 5
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.978515625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.048113026527288195,
+            "runtime": 3.7697132313624024
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 6
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.8828125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 31,
+            "avg_agents_density": 0.048435938322684384,
+            "runtime": 3.733910725801252
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 7
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.955078125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.04491920670476476,
+            "runtime": 3.3954848530702293
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 8
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.974609375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 32,
+            "avg_agents_density": 0.048237330139318975,
+            "runtime": 3.5629606175934896
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 9
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.64453125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 61,
+            "avg_agents_density": 0.08434116264679352,
+            "runtime": 7.097859641187824
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 0
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.681640625,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 62,
+            "avg_agents_density": 0.08342753154390178,
+            "runtime": 7.040004890062846
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 1
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.626953125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 61,
+            "avg_agents_density": 0.08870715620825773,
+            "runtime": 7.127991009969264
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 2
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.677734375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 63,
+            "avg_agents_density": 0.08240309827419486,
+            "runtime": 7.1404582594987005
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 3
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.724609375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 64,
+            "avg_agents_density": 0.08818301485441256,
+            "runtime": 7.1441844830987975
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 4
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.63671875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 58,
+            "avg_agents_density": 0.08649461351033655,
+            "runtime": 7.1501755533972755
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 5
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.68359375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 60,
+            "avg_agents_density": 0.08379389553376894,
+            "runtime": 7.006904872949235
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 6
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.6328125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 58,
+            "avg_agents_density": 0.08587605808824508,
+            "runtime": 7.11326944315806
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 7
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.662109375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 62,
+            "avg_agents_density": 0.087071987918039,
+            "runtime": 6.31630774831865
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 8
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.595703125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 60,
+            "avg_agents_density": 0.08927581869596862,
+            "runtime": 6.389619892230257
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 9
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.134765625,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 77,
+            "avg_agents_density": 0.11984721517822315,
+            "runtime": 10.789186075911857
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 0
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.154296875,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 80,
+            "avg_agents_density": 0.12141240734179279,
+            "runtime": 10.802172904717736
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 1
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.08203125,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 74,
+            "avg_agents_density": 0.12513971481446115,
+            "runtime": 10.829848827561364
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 2
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.12109375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 78,
+            "avg_agents_density": 0.12172934973501227,
+            "runtime": 10.975414882297628
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 3
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.10546875,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 76,
+            "avg_agents_density": 0.12818988220510605,
+            "runtime": 10.76665707549546
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 4
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.12109375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 77,
+            "avg_agents_density": 0.1231484010107528,
+            "runtime": 10.462572183110751
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 5
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.15625,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 95,
+            "ISR10": 72,
+            "avg_agents_density": 0.12216190374936896,
+            "runtime": 10.617620917619206
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 6
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.12890625,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 76,
+            "avg_agents_density": 0.1228389187261518,
+            "runtime": 10.538691825582646
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 7
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.12890625,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 77,
+            "avg_agents_density": 0.1221987048197122,
+            "runtime": 10.533579577109776
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 8
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.107421875,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 74,
+            "avg_agents_density": 0.12432778624639096,
+            "runtime": 10.873790366807953
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 9
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.529296875,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 128,
+            "ISR10": 72,
+            "avg_agents_density": 0.15298387682480832,
+            "runtime": 15.429215862997808
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 0
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.537109375,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 128,
+            "ISR10": 69,
+            "avg_agents_density": 0.15135977540375728,
+            "runtime": 15.390156863024458
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 1
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.330078125,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 127,
+            "ISR5": 125,
+            "ISR10": 63,
+            "avg_agents_density": 0.16226250846834342,
+            "runtime": 15.650433778413571
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 2
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.474609375,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 127,
+            "ISR10": 75,
+            "avg_agents_density": 0.1552744532967062,
+            "runtime": 15.555348423309624
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 3
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.408203125,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 127,
+            "ISR5": 124,
+            "ISR10": 69,
+            "avg_agents_density": 0.16184504936130345,
+            "runtime": 15.49395349889528
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 4
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.359375,
+            "ISR2": 128,
+            "ISR3": 127,
+            "ISR4": 126,
+            "ISR5": 125,
+            "ISR10": 59,
+            "avg_agents_density": 0.16338121820291004,
+            "runtime": 15.585907267639413
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 5
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.44140625,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 128,
+            "ISR10": 71,
+            "avg_agents_density": 0.15541069535392737,
+            "runtime": 15.586797359050252
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 6
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.54296875,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 128,
+            "ISR10": 84,
+            "avg_agents_density": 0.15388963749819548,
+            "runtime": 15.496853307122365
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 7
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.455078125,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 127,
+            "ISR10": 73,
+            "avg_agents_density": 0.16236786184617372,
+            "runtime": 15.675521914032288
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 8
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.359375,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 128,
+            "ISR5": 126,
+            "ISR10": 64,
+            "avg_agents_density": 0.16015285970188534,
+            "runtime": 15.588839567499235
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 9
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.75,
+            "ISR2": 160,
+            "ISR3": 160,
+            "ISR4": 160,
+            "ISR5": 157,
+            "ISR10": 60,
+            "avg_agents_density": 0.18275998819978878,
+            "runtime": 21.806134171201847
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 0
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.765625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "ISR4": 158,
+            "ISR5": 154,
+            "ISR10": 65,
+            "avg_agents_density": 0.18523437675587553,
+            "runtime": 20.99425220140256
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 1
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.654296875,
+            "ISR2": 160,
+            "ISR3": 156,
+            "ISR4": 155,
+            "ISR5": 154,
+            "ISR10": 50,
+            "avg_agents_density": 0.19163309861500594,
+            "runtime": 22.070731582934968
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 2
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.640625,
+            "ISR2": 160,
+            "ISR3": 159,
+            "ISR4": 159,
+            "ISR5": 154,
+            "ISR10": 50,
+            "avg_agents_density": 0.19004640597804415,
+            "runtime": 21.381777464412153
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 3
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.615234375,
+            "ISR2": 160,
+            "ISR3": 159,
+            "ISR4": 156,
+            "ISR5": 151,
+            "ISR10": 50,
+            "avg_agents_density": 0.19738651114401337,
+            "runtime": 20.998915293603204
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 4
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.677734375,
+            "ISR2": 160,
+            "ISR3": 158,
+            "ISR4": 156,
+            "ISR5": 153,
+            "ISR10": 54,
+            "avg_agents_density": 0.19004915151260093,
+            "runtime": 21.44460441125557
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 5
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.708984375,
+            "ISR2": 160,
+            "ISR3": 160,
+            "ISR4": 160,
+            "ISR5": 156,
+            "ISR10": 49,
+            "avg_agents_density": 0.1882174260661371,
+            "runtime": 21.390272333519533
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 6
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.71484375,
+            "ISR2": 160,
+            "ISR3": 159,
+            "ISR4": 154,
+            "ISR5": 148,
+            "ISR10": 61,
+            "avg_agents_density": 0.18752922356850193,
+            "runtime": 21.082477131742053
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 7
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.759765625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "ISR4": 159,
+            "ISR5": 156,
+            "ISR10": 60,
+            "avg_agents_density": 0.18646329528308284,
+            "runtime": 21.77142488746904
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 8
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.72265625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "ISR4": 159,
+            "ISR5": 156,
+            "ISR10": 57,
+            "avg_agents_density": 0.19026689796658094,
+            "runtime": 21.134569359594025
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 9
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.99609375,
+            "ISR2": 192,
+            "ISR3": 190,
+            "ISR4": 187,
+            "ISR5": 174,
+            "ISR10": 55,
+            "avg_agents_density": 0.21577362557387839,
+            "runtime": 27.23234980122652
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 0
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.888671875,
+            "ISR2": 191,
+            "ISR3": 189,
+            "ISR4": 184,
+            "ISR5": 174,
+            "ISR10": 44,
+            "avg_agents_density": 0.21941478432993586,
+            "runtime": 27.02903425344266
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 1
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.830078125,
+            "ISR2": 190,
+            "ISR3": 188,
+            "ISR4": 183,
+            "ISR5": 173,
+            "ISR10": 40,
+            "avg_agents_density": 0.22308647608160845,
+            "runtime": 26.629586283117533
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 2
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.93359375,
+            "ISR2": 192,
+            "ISR3": 192,
+            "ISR4": 191,
+            "ISR5": 178,
+            "ISR10": 34,
+            "avg_agents_density": 0.21623639609829837,
+            "runtime": 27.438567233853973
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 3
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.826171875,
+            "ISR2": 189,
+            "ISR3": 188,
+            "ISR4": 184,
+            "ISR5": 172,
+            "ISR10": 40,
+            "avg_agents_density": 0.22410554582003697,
+            "runtime": 27.233404129510745
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 4
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.857421875,
+            "ISR2": 192,
+            "ISR3": 188,
+            "ISR4": 180,
+            "ISR5": 169,
+            "ISR10": 38,
+            "avg_agents_density": 0.22506413148432225,
+            "runtime": 27.16898419649806
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 5
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.921875,
+            "ISR2": 191,
+            "ISR3": 191,
+            "ISR4": 187,
+            "ISR5": 179,
+            "ISR10": 35,
+            "avg_agents_density": 0.22018660440801835,
+            "runtime": 27.0794045944931
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 6
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.78125,
+            "ISR2": 192,
+            "ISR3": 186,
+            "ISR4": 176,
+            "ISR5": 167,
+            "ISR10": 46,
+            "avg_agents_density": 0.22048263220460346,
+            "runtime": 27.09901034878567
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 7
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.916015625,
+            "ISR2": 191,
+            "ISR3": 189,
+            "ISR4": 184,
+            "ISR5": 173,
+            "ISR10": 44,
+            "avg_agents_density": 0.2236864457118065,
+            "runtime": 26.974954331992194
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 8
+        },
+        "algorithm": "No static and dynamic cost"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.908203125,
+            "ISR2": 192,
+            "ISR3": 191,
+            "ISR4": 183,
+            "ISR5": 174,
+            "ISR10": 50,
+            "avg_agents_density": 0.22290210767324756,
+            "runtime": 27.786568297771737
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 9
+        },
+        "algorithm": "No static and dynamic cost"
+    }
+]

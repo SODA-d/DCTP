@@ -1,0 +1,842 @@
+[
+    {
+        "metrics": {
+            "avg_throughput": 0.958984375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.044700686794695375,
+            "runtime": 3.2160428659992704
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 0
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.9609375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.04541323158314818,
+            "runtime": 3.3185425129984196
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 1
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.984375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.047145616275656214,
+            "runtime": 3.3881258219992105
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 2
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.939453125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.04549472442418633,
+            "runtime": 3.341931175000127
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 3
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.01171875,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.0433569921128833,
+            "runtime": 3.2194691529984993
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 4
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.978515625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.04528951966539019,
+            "runtime": 3.263052989997732
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 5
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.98828125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.04414017876857326,
+            "runtime": 3.492234226000164
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 6
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.935546875,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.045084112327097414,
+            "runtime": 3.3884039729973665
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 7
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.00390625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.044029753198867976,
+            "runtime": 3.521397440000783
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 8
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.974609375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "avg_agents_density": 0.04569806191967152,
+            "runtime": 3.4801960020001843
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 9
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.69921875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.07955909092288684,
+            "runtime": 7.122608148000154
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 0
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.796875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.0767537069359843,
+            "runtime": 7.006945594999024
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 1
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.748046875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.08051762363147894,
+            "runtime": 7.140702124000654
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 2
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.7890625,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.07772284281541825,
+            "runtime": 7.151167825002176
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 3
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.880859375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.08150542752551415,
+            "runtime": 7.1852692720026425
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 4
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.736328125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.08203799923341798,
+            "runtime": 6.934146802001351
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 5
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.796875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.0781849717894301,
+            "runtime": 7.077149403000703
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 6
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.75,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.08184563465403429,
+            "runtime": 7.111791567997898
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 7
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.818359375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.07914035252558063,
+            "runtime": 6.748179298998139
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 8
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.69921875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "avg_agents_density": 0.08170423321515458,
+            "runtime": 6.6506048200028545
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 9
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.3671875,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.10921828065186874,
+            "runtime": 11.27978706299723
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 0
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.3515625,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11008994015007835,
+            "runtime": 10.958411177998187
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 1
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.263671875,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.1181911952682155,
+            "runtime": 11.027553315999057
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 2
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.33984375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.10952215712690705,
+            "runtime": 11.055657073999328
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 3
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.3125,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11771949411606981,
+            "runtime": 11.293938299998672
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 4
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.30078125,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11639919338157516,
+            "runtime": 11.033180094996624
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 5
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.31640625,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11199448970437553,
+            "runtime": 11.006860344999723
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 6
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.30859375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11664334790224778,
+            "runtime": 10.972735067002759
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 7
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.29296875,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11478615368325845,
+            "runtime": 11.07008539000276
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 8
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.271484375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "avg_agents_density": 0.11548111936028513,
+            "runtime": 11.053228022999065
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 9
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.705078125,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.1422242590100671,
+            "runtime": 18.205344136001486
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 0
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.794921875,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14114031892825202,
+            "runtime": 18.17165263199945
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 1
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.654296875,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.1483498086845183,
+            "runtime": 18.12735019100319
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 2
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.763671875,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14264565030863652,
+            "runtime": 17.715886058997057
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 3
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.73046875,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14834776172749878,
+            "runtime": 17.589898604004702
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 4
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.71484375,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14674320406496896,
+            "runtime": 17.869924129000765
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 5
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.765625,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14460805689736356,
+            "runtime": 17.022554789000424
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 6
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.740234375,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14772980698087462,
+            "runtime": 17.135717338004042
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 7
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.736328125,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.1475590458193073,
+            "runtime": 16.396306757995717
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 8
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.69140625,
+            "ISR2": 128,
+            "ISR3": 128,
+            "avg_agents_density": 0.14550066160814484,
+            "runtime": 16.362971815000492
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 9
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.158203125,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17229217539619635,
+            "runtime": 25.639330011999164
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 0
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.09765625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17079074679163217,
+            "runtime": 26.149504651998768
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 1
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.990234375,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17792265862503878,
+            "runtime": 25.865800874998058
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 2
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.0390625,
+            "ISR2": 160,
+            "ISR3": 159,
+            "avg_agents_density": 0.17246542343714685,
+            "runtime": 25.78099321200193
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 3
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.048828125,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.1778142552566519,
+            "runtime": 26.044401785001128
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 4
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.962890625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17877734100351098,
+            "runtime": 26.021255756998244
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 5
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.072265625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.1746798888999364,
+            "runtime": 26.823858829000073
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 6
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.072265625,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17157249428685867,
+            "runtime": 27.334297342999662
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 7
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.138671875,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17543606746668022,
+            "runtime": 26.119129206002526
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 8
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.044921875,
+            "ISR2": 160,
+            "ISR3": 160,
+            "avg_agents_density": 0.17529543508126155,
+            "runtime": 26.833670067001094
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 9
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.3515625,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.20226221952166426,
+            "runtime": 33.70274497500236
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 0
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.384765625,
+            "ISR2": 192,
+            "ISR3": 191,
+            "avg_agents_density": 0.20200782730912795,
+            "runtime": 33.40276674200004
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 1
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.296875,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.20588480522012445,
+            "runtime": 33.40871108299939
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 2
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.296875,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.20366366976466999,
+            "runtime": 34.07014023099896
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 3
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.23828125,
+            "ISR2": 192,
+            "ISR3": 190,
+            "avg_agents_density": 0.20567991800758229,
+            "runtime": 32.9544985159946
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 4
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.3046875,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.20728347830011754,
+            "runtime": 31.99518594899837
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 5
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.431640625,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.19869386176967269,
+            "runtime": 32.349632900000984
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 6
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.369140625,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.20067873702945366,
+            "runtime": 31.968261570002255
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 7
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.283203125,
+            "ISR2": 190,
+            "ISR3": 190,
+            "avg_agents_density": 0.20893396454097177,
+            "runtime": 34.996553109001525
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 8
+        },
+        "algorithm": "Follower"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 3.296875,
+            "ISR2": 192,
+            "ISR3": 192,
+            "avg_agents_density": 0.20433565039329235,
+            "runtime": 31.80655133699952
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 9
+        },
+        "algorithm": "Follower"
+    }
+]

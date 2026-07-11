@@ -1,0 +1,1022 @@
+[
+    {
+        "metrics": {
+            "avg_throughput": 0.771484375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 29,
+            "avg_agents_density": 0.03864968470345401,
+            "runtime": 3.7619115325505845
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 0
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.759765625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 29,
+            "avg_agents_density": 0.039870055332445746,
+            "runtime": 3.86609704955481
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 1
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.787109375,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 29,
+            "avg_agents_density": 0.037363761304560934,
+            "runtime": 3.89824273774866
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 2
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.810546875,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 30,
+            "avg_agents_density": 0.037023389932492864,
+            "runtime": 3.8898485916433856
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 3
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.8046875,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 29,
+            "avg_agents_density": 0.03906580047546024,
+            "runtime": 3.876796675758669
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 4
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.78515625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 31,
+            "avg_agents_density": 0.03985208624410078,
+            "runtime": 3.8781994647579268
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 5
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.775390625,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 31,
+            "avg_agents_density": 0.0372765313174863,
+            "runtime": 3.867388949438464
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 6
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.76953125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 29,
+            "avg_agents_density": 0.039136214465454976,
+            "runtime": 3.86356664163759
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 7
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.76953125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 30,
+            "avg_agents_density": 0.03834325008638416,
+            "runtime": 3.5485538799257483
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 8
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.783203125,
+            "ISR2": 32,
+            "ISR3": 32,
+            "ISR4": 32,
+            "ISR5": 32,
+            "ISR10": 31,
+            "avg_agents_density": 0.03883638636276203,
+            "runtime": 3.546236105990829
+        },
+        "env_grid_search": {
+            "num_agents": 32,
+            "seed": 9
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.3828125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 49,
+            "avg_agents_density": 0.06628634673986318,
+            "runtime": 7.100197429768741
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 0
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.376953125,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 63,
+            "ISR5": 63,
+            "ISR10": 48,
+            "avg_agents_density": 0.06664319217050986,
+            "runtime": 7.2534487887169234
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 1
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.37109375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 50,
+            "avg_agents_density": 0.0648998087233074,
+            "runtime": 7.133780319942161
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 2
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.41796875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 54,
+            "avg_agents_density": 0.06544930543863971,
+            "runtime": 7.235890430980362
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 3
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.431640625,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 52,
+            "avg_agents_density": 0.06881584093349431,
+            "runtime": 7.062640586635098
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 4
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.38671875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 52,
+            "avg_agents_density": 0.06719951783409268,
+            "runtime": 7.130585924896877
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 5
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 47,
+            "avg_agents_density": 0.06623887974784556,
+            "runtime": 7.151658003596822
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 6
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.37109375,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 47,
+            "avg_agents_density": 0.0674736465443386,
+            "runtime": 7.1388815863465425
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 7
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.447265625,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 53,
+            "avg_agents_density": 0.06745545614266273,
+            "runtime": 6.363019990269095
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 8
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.404296875,
+            "ISR2": 64,
+            "ISR3": 64,
+            "ISR4": 64,
+            "ISR5": 64,
+            "ISR10": 55,
+            "avg_agents_density": 0.06605816555279181,
+            "runtime": 6.457098939077696
+        },
+        "env_grid_search": {
+            "num_agents": 64,
+            "seed": 9
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.78125,
+            "ISR2": 96,
+            "ISR3": 95,
+            "ISR4": 95,
+            "ISR5": 95,
+            "ISR10": 52,
+            "avg_agents_density": 0.09480219758368008,
+            "runtime": 10.697079085599398
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 0
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.810546875,
+            "ISR2": 96,
+            "ISR3": 95,
+            "ISR4": 94,
+            "ISR5": 93,
+            "ISR10": 53,
+            "avg_agents_density": 0.09581499292879272,
+            "runtime": 10.801096877170494
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 1
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.77734375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 95,
+            "ISR5": 95,
+            "ISR10": 45,
+            "avg_agents_density": 0.09551559899457178,
+            "runtime": 10.958159898116719
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 2
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.818359375,
+            "ISR2": 95,
+            "ISR3": 95,
+            "ISR4": 95,
+            "ISR5": 95,
+            "ISR10": 56,
+            "avg_agents_density": 0.09541734994756289,
+            "runtime": 10.931946733151563
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 3
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.7734375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 94,
+            "ISR5": 93,
+            "ISR10": 51,
+            "avg_agents_density": 0.09751990534943743,
+            "runtime": 10.720329540112289
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 4
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.875,
+            "ISR2": 95,
+            "ISR3": 95,
+            "ISR4": 95,
+            "ISR5": 94,
+            "ISR10": 62,
+            "avg_agents_density": 0.09445798711560992,
+            "runtime": 10.499496280535823
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 5
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.853515625,
+            "ISR2": 95,
+            "ISR3": 95,
+            "ISR4": 95,
+            "ISR5": 94,
+            "ISR10": 50,
+            "avg_agents_density": 0.09355360603389512,
+            "runtime": 10.506758122122847
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 6
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.8984375,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 62,
+            "avg_agents_density": 0.09413495706685612,
+            "runtime": 10.451454738271423
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 7
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.8125,
+            "ISR2": 96,
+            "ISR3": 96,
+            "ISR4": 96,
+            "ISR5": 96,
+            "ISR10": 51,
+            "avg_agents_density": 0.09810115447848487,
+            "runtime": 10.506310935947113
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 8
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.75390625,
+            "ISR2": 96,
+            "ISR3": 95,
+            "ISR4": 94,
+            "ISR5": 93,
+            "ISR10": 47,
+            "avg_agents_density": 0.09838238987414308,
+            "runtime": 10.642608376627322
+        },
+        "env_grid_search": {
+            "num_agents": 96,
+            "seed": 9
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.091796875,
+            "ISR2": 127,
+            "ISR3": 127,
+            "ISR4": 127,
+            "ISR5": 125,
+            "ISR10": 34,
+            "avg_agents_density": 0.12210593815600639,
+            "runtime": 15.37993877416011
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 0
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.041015625,
+            "ISR2": 126,
+            "ISR3": 124,
+            "ISR4": 124,
+            "ISR5": 120,
+            "ISR10": 38,
+            "avg_agents_density": 0.12336179525949546,
+            "runtime": 15.347165204846533
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 1
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.099609375,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 126,
+            "ISR5": 122,
+            "ISR10": 36,
+            "avg_agents_density": 0.12170471832734255,
+            "runtime": 15.399965046934085
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 2
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.076171875,
+            "ISR2": 127,
+            "ISR3": 126,
+            "ISR4": 125,
+            "ISR5": 124,
+            "ISR10": 38,
+            "avg_agents_density": 0.1217466787015127,
+            "runtime": 15.270674510189565
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 3
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.0859375,
+            "ISR2": 128,
+            "ISR3": 126,
+            "ISR4": 125,
+            "ISR5": 121,
+            "ISR10": 39,
+            "avg_agents_density": 0.12570249518150883,
+            "runtime": 15.47296726127388
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 4
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.091796875,
+            "ISR2": 127,
+            "ISR3": 127,
+            "ISR4": 126,
+            "ISR5": 124,
+            "ISR10": 35,
+            "avg_agents_density": 0.121559128965624,
+            "runtime": 15.528067797975382
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 5
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.091796875,
+            "ISR2": 127,
+            "ISR3": 126,
+            "ISR4": 126,
+            "ISR5": 126,
+            "ISR10": 34,
+            "avg_agents_density": 0.12215057458135478,
+            "runtime": 15.511004059226252
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 6
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.072265625,
+            "ISR2": 124,
+            "ISR3": 122,
+            "ISR4": 119,
+            "ISR5": 116,
+            "ISR10": 41,
+            "avg_agents_density": 0.12396801066428899,
+            "runtime": 15.318835774989566
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 7
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.064453125,
+            "ISR2": 128,
+            "ISR3": 128,
+            "ISR4": 125,
+            "ISR5": 125,
+            "ISR10": 37,
+            "avg_agents_density": 0.12416655902560153,
+            "runtime": 15.37290177072282
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 8
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 1.951171875,
+            "ISR2": 127,
+            "ISR3": 126,
+            "ISR4": 123,
+            "ISR5": 121,
+            "ISR10": 24,
+            "avg_agents_density": 0.1254171791254717,
+            "runtime": 15.205478314019274
+        },
+        "env_grid_search": {
+            "num_agents": 128,
+            "seed": 9
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.162109375,
+            "ISR2": 159,
+            "ISR3": 157,
+            "ISR4": 153,
+            "ISR5": 143,
+            "ISR10": 15,
+            "avg_agents_density": 0.1494461071446466,
+            "runtime": 21.037604724580888
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 0
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.25390625,
+            "ISR2": 160,
+            "ISR3": 159,
+            "ISR4": 158,
+            "ISR5": 147,
+            "ISR10": 20,
+            "avg_agents_density": 0.15122456392769226,
+            "runtime": 20.958768119395245
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 1
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.158203125,
+            "ISR2": 160,
+            "ISR3": 158,
+            "ISR4": 153,
+            "ISR5": 142,
+            "ISR10": 8,
+            "avg_agents_density": 0.14895201847143627,
+            "runtime": 20.763656772091053
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 2
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.2421875,
+            "ISR2": 159,
+            "ISR3": 159,
+            "ISR4": 159,
+            "ISR5": 148,
+            "ISR10": 13,
+            "avg_agents_density": 0.14914833827204615,
+            "runtime": 20.910841905482812
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 3
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.115234375,
+            "ISR2": 159,
+            "ISR3": 156,
+            "ISR4": 150,
+            "ISR5": 139,
+            "ISR10": 12,
+            "avg_agents_density": 0.15000870583249606,
+            "runtime": 20.635594515886623
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 4
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.185546875,
+            "ISR2": 160,
+            "ISR3": 158,
+            "ISR4": 153,
+            "ISR5": 144,
+            "ISR10": 13,
+            "avg_agents_density": 0.14870492766889265,
+            "runtime": 20.839359062025324
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 5
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.2890625,
+            "ISR2": 158,
+            "ISR3": 157,
+            "ISR4": 157,
+            "ISR5": 148,
+            "ISR10": 17,
+            "avg_agents_density": 0.14427851680495754,
+            "runtime": 20.717328269354766
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 6
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.201171875,
+            "ISR2": 158,
+            "ISR3": 155,
+            "ISR4": 148,
+            "ISR5": 140,
+            "ISR10": 19,
+            "avg_agents_density": 0.15154319729132354,
+            "runtime": 20.365497527614934
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 7
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.201171875,
+            "ISR2": 157,
+            "ISR3": 155,
+            "ISR4": 150,
+            "ISR5": 142,
+            "ISR10": 19,
+            "avg_agents_density": 0.15004362550192818,
+            "runtime": 20.483278698666254
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 8
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.224609375,
+            "ISR2": 158,
+            "ISR3": 156,
+            "ISR4": 153,
+            "ISR5": 143,
+            "ISR10": 15,
+            "avg_agents_density": 0.1520031803924388,
+            "runtime": 20.929905297030928
+        },
+        "env_grid_search": {
+            "num_agents": 160,
+            "seed": 9
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.265625,
+            "ISR2": 188,
+            "ISR3": 183,
+            "ISR4": 173,
+            "ISR5": 154,
+            "ISR10": 6,
+            "avg_agents_density": 0.16941661933014737,
+            "runtime": 26.415664163214387
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 0
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.3203125,
+            "ISR2": 190,
+            "ISR3": 187,
+            "ISR4": 175,
+            "ISR5": 151,
+            "ISR10": 6,
+            "avg_agents_density": 0.17107857273763094,
+            "runtime": 27.10552875197027
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 1
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.375,
+            "ISR2": 190,
+            "ISR3": 186,
+            "ISR4": 174,
+            "ISR5": 164,
+            "ISR10": 7,
+            "avg_agents_density": 0.16996054505296407,
+            "runtime": 27.056870430271374
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 2
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.33203125,
+            "ISR2": 188,
+            "ISR3": 188,
+            "ISR4": 176,
+            "ISR5": 159,
+            "ISR10": 7,
+            "avg_agents_density": 0.16788732750704125,
+            "runtime": 26.725450036523398
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 3
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.212890625,
+            "ISR2": 188,
+            "ISR3": 184,
+            "ISR4": 171,
+            "ISR5": 150,
+            "ISR10": 4,
+            "avg_agents_density": 0.17669625127922767,
+            "runtime": 26.834190468885936
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 4
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.330078125,
+            "ISR2": 189,
+            "ISR3": 185,
+            "ISR4": 177,
+            "ISR5": 161,
+            "ISR10": 11,
+            "avg_agents_density": 0.17102912952386973,
+            "runtime": 26.78570784407202
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 5
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.30859375,
+            "ISR2": 190,
+            "ISR3": 186,
+            "ISR4": 174,
+            "ISR5": 155,
+            "ISR10": 6,
+            "avg_agents_density": 0.16876510960485613,
+            "runtime": 26.877796387212584
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 6
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.26953125,
+            "ISR2": 188,
+            "ISR3": 183,
+            "ISR4": 174,
+            "ISR5": 156,
+            "ISR10": 6,
+            "avg_agents_density": 0.17389616742148173,
+            "runtime": 26.45312343534897
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 7
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.283203125,
+            "ISR2": 191,
+            "ISR3": 189,
+            "ISR4": 175,
+            "ISR5": 148,
+            "ISR10": 11,
+            "avg_agents_density": 0.17261235753136495,
+            "runtime": 26.787448700488312
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 8
+        },
+        "algorithm": "No reward structure"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 2.24609375,
+            "ISR2": 188,
+            "ISR3": 182,
+            "ISR4": 172,
+            "ISR5": 152,
+            "ISR10": 6,
+            "avg_agents_density": 0.17347749726023443,
+            "runtime": 27.002689093962545
+        },
+        "env_grid_search": {
+            "num_agents": 192,
+            "seed": 9
+        },
+        "algorithm": "No reward structure"
+    }
+]

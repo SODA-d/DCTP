@@ -1,0 +1,6002 @@
+[
+  {
+    "metrics": {
+      "avg_throughput": 0.27734375,
+      "ISR2": 28,
+      "ISR3": 26,
+      "avg_agents_density": 0.025432740633421668,
+      "runtime": 5.218228550986169
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3125,
+      "ISR2": 30,
+      "ISR3": 24,
+      "avg_agents_density": 0.026049135038777236,
+      "runtime": 5.291121175997432
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.2890625,
+      "ISR2": 28,
+      "ISR3": 27,
+      "avg_agents_density": 0.026378686984491834,
+      "runtime": 5.2071710510081175
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.369140625,
+      "ISR2": 31,
+      "ISR3": 31,
+      "avg_agents_density": 0.027281967045479118,
+      "runtime": 5.21110979900368
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.271484375,
+      "ISR2": 29,
+      "ISR3": 25,
+      "avg_agents_density": 0.028072058747254196,
+      "runtime": 5.144428073999734
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.271484375,
+      "ISR2": 28,
+      "ISR3": 26,
+      "avg_agents_density": 0.02703140151192979,
+      "runtime": 5.195756456008894
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.314453125,
+      "ISR2": 31,
+      "ISR3": 29,
+      "avg_agents_density": 0.027218856343241806,
+      "runtime": 5.191831714001637
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.322265625,
+      "ISR2": 30,
+      "ISR3": 30,
+      "avg_agents_density": 0.02631222962173759,
+      "runtime": 5.18872755299617
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3203125,
+      "ISR2": 32,
+      "ISR3": 28,
+      "avg_agents_density": 0.029913714664250746,
+      "runtime": 5.200788658007696
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.310546875,
+      "ISR2": 31,
+      "ISR3": 28,
+      "avg_agents_density": 0.024889772277666575,
+      "runtime": 5.238496215984924
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.791015625,
+      "ISR2": 62,
+      "ISR3": 61,
+      "avg_agents_density": 0.04213510787507984,
+      "runtime": 10.442770384998767
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.79296875,
+      "ISR2": 63,
+      "ISR3": 60,
+      "avg_agents_density": 0.04109335857806665,
+      "runtime": 10.439640121002412
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.77734375,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.04255873706511395,
+      "runtime": 10.570206947017141
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.791015625,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.039187942166328905,
+      "runtime": 10.523203498020848
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.80859375,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.043435643593328986,
+      "runtime": 10.396474097004102
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.7734375,
+      "ISR2": 62,
+      "ISR3": 58,
+      "avg_agents_density": 0.041101000013290374,
+      "runtime": 10.475175015997593
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.76953125,
+      "ISR2": 62,
+      "ISR3": 59,
+      "avg_agents_density": 0.043524124643409275,
+      "runtime": 10.437895990015022
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.734375,
+      "ISR2": 62,
+      "ISR3": 60,
+      "avg_agents_density": 0.04038162719128577,
+      "runtime": 10.552657925989479
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.806640625,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.043119266976719244,
+      "runtime": 10.57133507700837
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.779296875,
+      "ISR2": 62,
+      "ISR3": 60,
+      "avg_agents_density": 0.04144608819526011,
+      "runtime": 10.522642206000455
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.666015625,
+      "ISR2": 128,
+      "ISR3": 125,
+      "avg_agents_density": 0.0718992239277273,
+      "runtime": 22.693530260010448
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.640625,
+      "ISR2": 127,
+      "ISR3": 123,
+      "avg_agents_density": 0.07244499662621659,
+      "runtime": 23.10175380399687
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.6484375,
+      "ISR2": 128,
+      "ISR3": 126,
+      "avg_agents_density": 0.07358087207859493,
+      "runtime": 22.645076620980944
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.669921875,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.06796222513938802,
+      "runtime": 22.512141203988904
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.634765625,
+      "ISR2": 125,
+      "ISR3": 122,
+      "avg_agents_density": 0.07154992754714593,
+      "runtime": 22.65285774099266
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.662109375,
+      "ISR2": 127,
+      "ISR3": 125,
+      "avg_agents_density": 0.06954556025380206,
+      "runtime": 22.988085824988957
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.697265625,
+      "ISR2": 125,
+      "ISR3": 125,
+      "avg_agents_density": 0.07000812325255268,
+      "runtime": 22.862239795997993
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.638671875,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.07069744148916395,
+      "runtime": 22.673855944993193
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.580078125,
+      "ISR2": 127,
+      "ISR3": 125,
+      "avg_agents_density": 0.07245415787862705,
+      "runtime": 22.883820470006867
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.669921875,
+      "ISR2": 127,
+      "ISR3": 127,
+      "avg_agents_density": 0.07068014497152851,
+      "runtime": 22.91643046599438
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.7421875,
+      "ISR2": 252,
+      "ISR3": 249,
+      "avg_agents_density": 0.13286097024510415,
+      "runtime": 56.20181729599199
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.720703125,
+      "ISR2": 253,
+      "ISR3": 247,
+      "avg_agents_density": 0.13163403479925287,
+      "runtime": 55.221346117998564
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.740234375,
+      "ISR2": 254,
+      "ISR3": 249,
+      "avg_agents_density": 0.12709659366171255,
+      "runtime": 55.305227802991794
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.826171875,
+      "ISR2": 254,
+      "ISR3": 249,
+      "avg_agents_density": 0.1280786342836812,
+      "runtime": 55.8134145020058
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.728515625,
+      "ISR2": 254,
+      "ISR3": 249,
+      "avg_agents_density": 0.13235007422448813,
+      "runtime": 55.47261221099643
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.791015625,
+      "ISR2": 253,
+      "ISR3": 250,
+      "avg_agents_density": 0.13131054205977113,
+      "runtime": 55.32416700499516
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.783203125,
+      "ISR2": 253,
+      "ISR3": 250,
+      "avg_agents_density": 0.13199600716307183,
+      "runtime": 55.47216941600027
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.77734375,
+      "ISR2": 254,
+      "ISR3": 249,
+      "avg_agents_density": 0.1337291503045813,
+      "runtime": 57.738443930006724
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.732421875,
+      "ISR2": 251,
+      "ISR3": 248,
+      "avg_agents_density": 0.1267902397304727,
+      "runtime": 59.90313758900311
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.818359375,
+      "ISR2": 254,
+      "ISR3": 248,
+      "avg_agents_density": 0.12811893155792475,
+      "runtime": 57.943864934998146
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s40_wc4_od30",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.265625,
+      "ISR2": 30,
+      "ISR3": 26,
+      "avg_agents_density": 0.0304008094020624,
+      "runtime": 4.704776361993936
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.259765625,
+      "ISR2": 30,
+      "ISR3": 25,
+      "avg_agents_density": 0.02939390661787694,
+      "runtime": 4.795798629002093
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.26171875,
+      "ISR2": 30,
+      "ISR3": 24,
+      "avg_agents_density": 0.02845428188930328,
+      "runtime": 4.687509404991943
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.25,
+      "ISR2": 27,
+      "ISR3": 26,
+      "avg_agents_density": 0.029689250973892092,
+      "runtime": 4.731636974999674
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.28125,
+      "ISR2": 30,
+      "ISR3": 28,
+      "avg_agents_density": 0.027194821254518928,
+      "runtime": 4.800001335999696
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.240234375,
+      "ISR2": 27,
+      "ISR3": 23,
+      "avg_agents_density": 0.030557143887774876,
+      "runtime": 4.65100444599193
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.310546875,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.02829577618533346,
+      "runtime": 4.7391841379985635
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.30078125,
+      "ISR2": 31,
+      "ISR3": 28,
+      "avg_agents_density": 0.026051012741764114,
+      "runtime": 4.668556728984186
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3125,
+      "ISR2": 31,
+      "ISR3": 29,
+      "avg_agents_density": 0.027314883742529387,
+      "runtime": 4.760057603999485
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.23046875,
+      "ISR2": 27,
+      "ISR3": 19,
+      "avg_agents_density": 0.0291039750780178,
+      "runtime": 4.65334115098176
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.716796875,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04242424494263819,
+      "runtime": 9.595694804996128
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.66796875,
+      "ISR2": 62,
+      "ISR3": 59,
+      "avg_agents_density": 0.0432708013454839,
+      "runtime": 9.702169256004709
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.576171875,
+      "ISR2": 60,
+      "ISR3": 55,
+      "avg_agents_density": 0.04821279299383343,
+      "runtime": 9.555896150005537
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.736328125,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.043286394141861924,
+      "runtime": 9.763265033994685
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.740234375,
+      "ISR2": 64,
+      "ISR3": 62,
+      "avg_agents_density": 0.04004211457712988,
+      "runtime": 9.538212890001887
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.67578125,
+      "ISR2": 61,
+      "ISR3": 55,
+      "avg_agents_density": 0.04462033974536964,
+      "runtime": 9.610751272995003
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.728515625,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04228470209518287,
+      "runtime": 9.702343803000076
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.734375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.044865021399759036,
+      "runtime": 9.571465257005912
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.6953125,
+      "ISR2": 63,
+      "ISR3": 60,
+      "avg_agents_density": 0.04326142490430236,
+      "runtime": 9.770030793009937
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.71875,
+      "ISR2": 61,
+      "ISR3": 58,
+      "avg_agents_density": 0.04570359593519609,
+      "runtime": 9.721330404999208
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.439453125,
+      "ISR2": 126,
+      "ISR3": 124,
+      "avg_agents_density": 0.07218666397532104,
+      "runtime": 20.861973992989988
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.32421875,
+      "ISR2": 126,
+      "ISR3": 125,
+      "avg_agents_density": 0.0765338780193591,
+      "runtime": 21.438969932984037
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.326171875,
+      "ISR2": 128,
+      "ISR3": 124,
+      "avg_agents_density": 0.07804910409197496,
+      "runtime": 21.09188582299339
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.375,
+      "ISR2": 126,
+      "ISR3": 123,
+      "avg_agents_density": 0.07753191001308478,
+      "runtime": 21.190431128003183
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.349609375,
+      "ISR2": 127,
+      "ISR3": 123,
+      "avg_agents_density": 0.07467421348056145,
+      "runtime": 20.953995237997333
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.373046875,
+      "ISR2": 128,
+      "ISR3": 122,
+      "avg_agents_density": 0.07672514872283596,
+      "runtime": 21.40707994499826
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.3671875,
+      "ISR2": 127,
+      "ISR3": 124,
+      "avg_agents_density": 0.07371708172184002,
+      "runtime": 21.071333647006213
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.330078125,
+      "ISR2": 126,
+      "ISR3": 125,
+      "avg_agents_density": 0.0768871362674406,
+      "runtime": 21.064825540997845
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.37109375,
+      "ISR2": 127,
+      "ISR3": 126,
+      "avg_agents_density": 0.07765294500647942,
+      "runtime": 21.045412763011882
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.3671875,
+      "ISR2": 126,
+      "ISR3": 119,
+      "avg_agents_density": 0.08164157993911376,
+      "runtime": 20.906308462980633
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.9140625,
+      "ISR2": 245,
+      "ISR3": 205,
+      "avg_agents_density": 0.15708510617990026,
+      "runtime": 54.28412614999752
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.873046875,
+      "ISR2": 239,
+      "ISR3": 207,
+      "avg_agents_density": 0.15537160132900069,
+      "runtime": 56.28104354900324
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.939453125,
+      "ISR2": 242,
+      "ISR3": 194,
+      "avg_agents_density": 0.15653156970789314,
+      "runtime": 55.811828795002384
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.982421875,
+      "ISR2": 242,
+      "ISR3": 214,
+      "avg_agents_density": 0.15973486078252733,
+      "runtime": 55.556775284000196
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.056640625,
+      "ISR2": 247,
+      "ISR3": 219,
+      "avg_agents_density": 0.1448057691521686,
+      "runtime": 56.04171216700115
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.974609375,
+      "ISR2": 241,
+      "ISR3": 206,
+      "avg_agents_density": 0.1563225014849809,
+      "runtime": 55.78896561099327
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.783203125,
+      "ISR2": 239,
+      "ISR3": 193,
+      "avg_agents_density": 0.16933239900481975,
+      "runtime": 52.088842994998686
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.931640625,
+      "ISR2": 241,
+      "ISR3": 214,
+      "avg_agents_density": 0.1552557500243811,
+      "runtime": 54.204320898005335
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.8671875,
+      "ISR2": 244,
+      "ISR3": 202,
+      "avg_agents_density": 0.15793413241080342,
+      "runtime": 51.71411232399214
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.068359375,
+      "ISR2": 246,
+      "ISR3": 217,
+      "avg_agents_density": 0.15272804380183055,
+      "runtime": 53.051724221004406
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s41_wc5_od50",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.25390625,
+      "ISR2": 28,
+      "ISR3": 22,
+      "avg_agents_density": 0.024778451357803544,
+      "runtime": 5.360446463998414
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.17578125,
+      "ISR2": 21,
+      "ISR3": 13,
+      "avg_agents_density": 0.02707065502428867,
+      "runtime": 5.180914087991368
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.30859375,
+      "ISR2": 28,
+      "ISR3": 26,
+      "avg_agents_density": 0.024324828302445003,
+      "runtime": 5.369797738998386
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.306640625,
+      "ISR2": 28,
+      "ISR3": 27,
+      "avg_agents_density": 0.024849555735564202,
+      "runtime": 5.33300376500938
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.35546875,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.024965403838943488,
+      "runtime": 5.332545866006512
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.294921875,
+      "ISR2": 31,
+      "ISR3": 26,
+      "avg_agents_density": 0.025408208186975912,
+      "runtime": 5.155070332000832
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.25390625,
+      "ISR2": 27,
+      "ISR3": 23,
+      "avg_agents_density": 0.024635326667155302,
+      "runtime": 5.248320771002909
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.322265625,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.025338944345357654,
+      "runtime": 5.443716003976988
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.310546875,
+      "ISR2": 32,
+      "ISR3": 29,
+      "avg_agents_density": 0.025412716106917012,
+      "runtime": 5.1983158989951335
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.306640625,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.02608759083019059,
+      "runtime": 5.174675473002026
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.697265625,
+      "ISR2": 60,
+      "ISR3": 59,
+      "avg_agents_density": 0.040200540588952706,
+      "runtime": 10.81195892699452
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.63671875,
+      "ISR2": 63,
+      "ISR3": 60,
+      "avg_agents_density": 0.041258952249182086,
+      "runtime": 10.88157959599448
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.728515625,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.037202958253496274,
+      "runtime": 10.863973556996825
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.69140625,
+      "ISR2": 63,
+      "ISR3": 58,
+      "avg_agents_density": 0.04110738290445457,
+      "runtime": 10.836954148024233
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.76953125,
+      "ISR2": 64,
+      "ISR3": 62,
+      "avg_agents_density": 0.038171646598559844,
+      "runtime": 10.881093732986301
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.755859375,
+      "ISR2": 64,
+      "ISR3": 61,
+      "avg_agents_density": 0.03990711283816588,
+      "runtime": 10.857734704994073
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.74609375,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.039044801969870986,
+      "runtime": 10.78397020299235
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.6953125,
+      "ISR2": 62,
+      "ISR3": 60,
+      "avg_agents_density": 0.039246414660728944,
+      "runtime": 10.793274211010612
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.703125,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.03829492008357729,
+      "runtime": 10.896983922994878
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.669921875,
+      "ISR2": 61,
+      "ISR3": 59,
+      "avg_agents_density": 0.03960788760550047,
+      "runtime": 10.876958817007107
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.455078125,
+      "ISR2": 127,
+      "ISR3": 121,
+      "avg_agents_density": 0.06613211637682766,
+      "runtime": 23.121963600997333
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.412109375,
+      "ISR2": 125,
+      "ISR3": 122,
+      "avg_agents_density": 0.06789071514380243,
+      "runtime": 23.67438542999389
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.40625,
+      "ISR2": 124,
+      "ISR3": 119,
+      "avg_agents_density": 0.06675483898898504,
+      "runtime": 24.95009019200188
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.3671875,
+      "ISR2": 124,
+      "ISR3": 118,
+      "avg_agents_density": 0.06776109484780594,
+      "runtime": 25.16078378200291
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.46875,
+      "ISR2": 126,
+      "ISR3": 122,
+      "avg_agents_density": 0.06705430618378044,
+      "runtime": 23.83026110001265
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.47265625,
+      "ISR2": 126,
+      "ISR3": 125,
+      "avg_agents_density": 0.06704775809113157,
+      "runtime": 25.853062064007645
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.4296875,
+      "ISR2": 127,
+      "ISR3": 123,
+      "avg_agents_density": 0.06665604818119328,
+      "runtime": 23.784211901001072
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.328125,
+      "ISR2": 127,
+      "ISR3": 120,
+      "avg_agents_density": 0.06930386589920474,
+      "runtime": 23.65064945699578
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.36328125,
+      "ISR2": 125,
+      "ISR3": 119,
+      "avg_agents_density": 0.0648156692028652,
+      "runtime": 23.782221638009105
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.4765625,
+      "ISR2": 126,
+      "ISR3": 122,
+      "avg_agents_density": 0.06679442331088349,
+      "runtime": 23.658508435007207
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.244140625,
+      "ISR2": 245,
+      "ISR3": 227,
+      "avg_agents_density": 0.12155582863744635,
+      "runtime": 57.569591175006735
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.306640625,
+      "ISR2": 242,
+      "ISR3": 222,
+      "avg_agents_density": 0.1265849623668958,
+      "runtime": 57.03900248099626
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.251953125,
+      "ISR2": 237,
+      "ISR3": 217,
+      "avg_agents_density": 0.1252234038790267,
+      "runtime": 57.623190235993206
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.2109375,
+      "ISR2": 242,
+      "ISR3": 225,
+      "avg_agents_density": 0.12746556125403452,
+      "runtime": 58.50532843300334
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.291015625,
+      "ISR2": 241,
+      "ISR3": 229,
+      "avg_agents_density": 0.12960888339658294,
+      "runtime": 57.342697525998574
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.26953125,
+      "ISR2": 240,
+      "ISR3": 226,
+      "avg_agents_density": 0.12594023501201276,
+      "runtime": 57.391242736996446
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.244140625,
+      "ISR2": 239,
+      "ISR3": 231,
+      "avg_agents_density": 0.12480747797558965,
+      "runtime": 57.72474528100156
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.228515625,
+      "ISR2": 244,
+      "ISR3": 223,
+      "avg_agents_density": 0.1300503039986322,
+      "runtime": 58.448704105998786
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.24609375,
+      "ISR2": 243,
+      "ISR3": 220,
+      "avg_agents_density": 0.12547738680710513,
+      "runtime": 57.2348075399982
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.322265625,
+      "ISR2": 243,
+      "ISR3": 227,
+      "avg_agents_density": 0.1264534706022546,
+      "runtime": 56.886473957001726
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s42_wc7_od30",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.216796875,
+      "ISR2": 24,
+      "ISR3": 21,
+      "avg_agents_density": 0.033861668382455905,
+      "runtime": 4.716699319995314
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3828125,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.029018461567334387,
+      "runtime": 4.839269125005558
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3359375,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.029381510653357833,
+      "runtime": 4.833512191994487
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.328125,
+      "ISR2": 31,
+      "ISR3": 31,
+      "avg_agents_density": 0.027577816112741304,
+      "runtime": 4.887389858998176
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.4296875,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.02751523669533275,
+      "runtime": 4.819351952003672
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.28125,
+      "ISR2": 28,
+      "ISR3": 23,
+      "avg_agents_density": 0.037389776673198406,
+      "runtime": 4.7575457240054675
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.205078125,
+      "ISR2": 25,
+      "ISR3": 21,
+      "avg_agents_density": 0.04129505131723022,
+      "runtime": 4.676903331009271
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.314453125,
+      "ISR2": 29,
+      "ISR3": 28,
+      "avg_agents_density": 0.029348804233371266,
+      "runtime": 4.8237516130020595
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.23046875,
+      "ISR2": 26,
+      "ISR3": 21,
+      "avg_agents_density": 0.03611828745431179,
+      "runtime": 4.772523585007548
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.353515625,
+      "ISR2": 29,
+      "ISR3": 28,
+      "avg_agents_density": 0.028797675994390603,
+      "runtime": 4.867550449010196
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.859375,
+      "ISR2": 61,
+      "ISR3": 59,
+      "avg_agents_density": 0.04057659655033473,
+      "runtime": 9.905788577019848
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.8984375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04291512305287375,
+      "runtime": 9.726457960990956
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.900390625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04237198405521448,
+      "runtime": 9.831921297007284
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.919921875,
+      "ISR2": 63,
+      "ISR3": 63,
+      "avg_agents_density": 0.04212705816456655,
+      "runtime": 9.724447416000658
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.90625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04320665990797618,
+      "runtime": 9.728350899010366
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.947265625,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04259226473123856,
+      "runtime": 9.738487400009944
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.94921875,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.041665399679323034,
+      "runtime": 9.767497165998066
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.87109375,
+      "ISR2": 64,
+      "ISR3": 62,
+      "avg_agents_density": 0.0425933536616568,
+      "runtime": 9.861207886999182
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.896484375,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.04313347431395527,
+      "runtime": 9.696426329007409
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.91015625,
+      "ISR2": 61,
+      "ISR3": 61,
+      "avg_agents_density": 0.04300992913586453,
+      "runtime": 9.788087588002782
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.8203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0700797588337234,
+      "runtime": 21.406752922991473
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.83984375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07284390080181923,
+      "runtime": 21.333096278016455
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.85546875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07156841839917949,
+      "runtime": 21.003720254986547
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.83203125,
+      "ISR2": 128,
+      "ISR3": 126,
+      "avg_agents_density": 0.07220322904872703,
+      "runtime": 21.354314919993158
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.841796875,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.0728959257562557,
+      "runtime": 21.380135921004694
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.8828125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07202486085986458,
+      "runtime": 21.233592261988633
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.880859375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07063081975119907,
+      "runtime": 21.2859326430098
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.826171875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07216762285855235,
+      "runtime": 21.34743758199329
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.859375,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.07413799218206267,
+      "runtime": 22.076085580007202
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.93359375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07105011319114664,
+      "runtime": 21.204539595000824
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.029296875,
+      "ISR2": 255,
+      "ISR3": 251,
+      "avg_agents_density": 0.13428593021860635,
+      "runtime": 53.40714536899077
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.029296875,
+      "ISR2": 254,
+      "ISR3": 252,
+      "avg_agents_density": 0.13658054068975628,
+      "runtime": 53.61397196999724
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.134765625,
+      "ISR2": 256,
+      "ISR3": 252,
+      "avg_agents_density": 0.1339961133508741,
+      "runtime": 53.15748666699528
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.13671875,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.13207901750042744,
+      "runtime": 52.331914004003465
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.076171875,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.13492233872325116,
+      "runtime": 53.36251467200009
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.087890625,
+      "ISR2": 254,
+      "ISR3": 254,
+      "avg_agents_density": 0.13511143891290367,
+      "runtime": 52.882878229997004
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.10546875,
+      "ISR2": 254,
+      "ISR3": 249,
+      "avg_agents_density": 0.13196626431020836,
+      "runtime": 52.614968415994554
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.056640625,
+      "ISR2": 253,
+      "ISR3": 249,
+      "avg_agents_density": 0.13375682998708904,
+      "runtime": 56.61959701299929
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.05859375,
+      "ISR2": 254,
+      "ISR3": 252,
+      "avg_agents_density": 0.13474468033651937,
+      "runtime": 56.957141660002435
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.21875,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.13156432463127435,
+      "runtime": 56.9950664529988
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s43_wc2_od45",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.328125,
+      "ISR2": 30,
+      "ISR3": 27,
+      "avg_agents_density": 0.029118531962174607,
+      "runtime": 5.211946274008369
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.453125,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.02544522014878699,
+      "runtime": 5.262566012003845
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.4296875,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.02717005462472666,
+      "runtime": 5.274822062007843
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.41015625,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.026945749766414586,
+      "runtime": 5.2111878239948055
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.421875,
+      "ISR2": 31,
+      "ISR3": 31,
+      "avg_agents_density": 0.026494893237336132,
+      "runtime": 5.251319761999184
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3828125,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.028520475623616287,
+      "runtime": 5.328222867015029
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.439453125,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.024879710965068778,
+      "runtime": 5.184471479997228
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.359375,
+      "ISR2": 29,
+      "ISR3": 28,
+      "avg_agents_density": 0.026135222649258785,
+      "runtime": 5.188876339989292
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.439453125,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.02521134311234165,
+      "runtime": 5.220462342000246
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.37109375,
+      "ISR2": 32,
+      "ISR3": 30,
+      "avg_agents_density": 0.02720745443577476,
+      "runtime": 5.179150918000232
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.984375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.03982727268299976,
+      "runtime": 10.565575859995988
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.974609375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.040195069671982865,
+      "runtime": 10.590813256998445
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.9609375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.040271728420378974,
+      "runtime": 10.40682726300929
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.955078125,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.03958241502239457,
+      "runtime": 10.502684608004529
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.970703125,
+      "ISR2": 63,
+      "ISR3": 63,
+      "avg_agents_density": 0.039903802886854856,
+      "runtime": 10.574858296998173
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.9453125,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.03881532597177581,
+      "runtime": 10.517945674988368
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.978515625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.03901985121602795,
+      "runtime": 10.628352466005708
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.888671875,
+      "ISR2": 63,
+      "ISR3": 63,
+      "avg_agents_density": 0.04041955669149872,
+      "runtime": 10.679030034006246
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.958984375,
+      "ISR2": 63,
+      "ISR3": 63,
+      "avg_agents_density": 0.038956045901979895,
+      "runtime": 10.540956356003335
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.931640625,
+      "ISR2": 62,
+      "ISR3": 62,
+      "avg_agents_density": 0.039195014519969096,
+      "runtime": 10.584932861005655
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.076171875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06711664332159853,
+      "runtime": 22.49798337000084
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.08203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06781365455263914,
+      "runtime": 22.748835890002738
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.08203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06809992860991396,
+      "runtime": 22.529898010992838
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.009765625,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.06777753107368531,
+      "runtime": 22.523519456985014
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.998046875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06768564943676003,
+      "runtime": 22.69258129699938
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.033203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06558152476754207,
+      "runtime": 22.382274082005097
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.001953125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06873936749271004,
+      "runtime": 22.601468114002273
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.033203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06622904042556853,
+      "runtime": 22.582217186984053
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.994140625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06711925133414834,
+      "runtime": 22.61646377899251
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.087890625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06824810798797773,
+      "runtime": 22.638977340001475
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.6328125,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12467611693832582,
+      "runtime": 66.99226085100008
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.583984375,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.1233201474886206,
+      "runtime": 66.86940192699944
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.59375,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12472966623843011,
+      "runtime": 66.6627780750041
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.482421875,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12530448571381655,
+      "runtime": 69.30009833099939
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.490234375,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.1261889286067723,
+      "runtime": 68.20316882999578
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.525390625,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12304483740857587,
+      "runtime": 68.81950436100351
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.5,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12519598403957122,
+      "runtime": 68.52620009799739
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.48828125,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12906207383039123,
+      "runtime": 68.11507375200199
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.494140625,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.1261651542497075,
+      "runtime": 67.42255158699618
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.525390625,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.1274456668763695,
+      "runtime": 55.49909657599801
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s44_wc2_od30",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.35546875,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.029517471605392708,
+      "runtime": 4.684202010012086
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.298828125,
+      "ISR2": 31,
+      "ISR3": 26,
+      "avg_agents_density": 0.0273436906649488,
+      "runtime": 4.292843381007515
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.27734375,
+      "ISR2": 31,
+      "ISR3": 25,
+      "avg_agents_density": 0.0308347375142048,
+      "runtime": 3.9577046790000168
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.333984375,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.030403030980379157,
+      "runtime": 4.436638065015359
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.294921875,
+      "ISR2": 29,
+      "ISR3": 27,
+      "avg_agents_density": 0.029326289861963395,
+      "runtime": 4.608771609008727
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3125,
+      "ISR2": 29,
+      "ISR3": 29,
+      "avg_agents_density": 0.02936735792583291,
+      "runtime": 4.479167654995763
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.349609375,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.02806779231976534,
+      "runtime": 4.408713394999722
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3046875,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.02986151705596028,
+      "runtime": 4.4348428379917095
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.216796875,
+      "ISR2": 24,
+      "ISR3": 21,
+      "avg_agents_density": 0.03351271724694487,
+      "runtime": 4.619158149989744
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.23046875,
+      "ISR2": 28,
+      "ISR3": 20,
+      "avg_agents_density": 0.03257576064573244,
+      "runtime": 4.328465150001648
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.734375,
+      "ISR2": 62,
+      "ISR3": 57,
+      "avg_agents_density": 0.047526731632582385,
+      "runtime": 9.502117394999004
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.712890625,
+      "ISR2": 64,
+      "ISR3": 60,
+      "avg_agents_density": 0.04584562732823668,
+      "runtime": 9.610108179993404
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.81640625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04475255771946387,
+      "runtime": 9.479173975000776
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.666015625,
+      "ISR2": 60,
+      "ISR3": 54,
+      "avg_agents_density": 0.04836414227620661,
+      "runtime": 9.651519116995587
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.76953125,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04592483929053257,
+      "runtime": 9.4979973980071
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.798828125,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.0448856508440981,
+      "runtime": 9.470723630994144
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.73046875,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.048235766365870125,
+      "runtime": 9.468963234998228
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.78515625,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04460155343081022,
+      "runtime": 9.382399370000712
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.685546875,
+      "ISR2": 62,
+      "ISR3": 59,
+      "avg_agents_density": 0.04894868063240651,
+      "runtime": 9.517160094987048
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.794921875,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04608893549762312,
+      "runtime": 9.512363791990538
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.53515625,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.08453143274428652,
+      "runtime": 22.300106110012166
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.484375,
+      "ISR2": 128,
+      "ISR3": 125,
+      "avg_agents_density": 0.07948950228604004,
+      "runtime": 20.534872624988566
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.5546875,
+      "ISR2": 127,
+      "ISR3": 127,
+      "avg_agents_density": 0.08056169319821713,
+      "runtime": 20.768886256009864
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.4296875,
+      "ISR2": 125,
+      "ISR3": 119,
+      "avg_agents_density": 0.08085046824347136,
+      "runtime": 21.036323300999356
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.583984375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0761529383750645,
+      "runtime": 20.712189901001693
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.576171875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07468404313516594,
+      "runtime": 21.10792104000393
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.486328125,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.08238916242027909,
+      "runtime": 20.407184815008804
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.50390625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07963707230603952,
+      "runtime": 21.282261631993606
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.56640625,
+      "ISR2": 127,
+      "ISR3": 127,
+      "avg_agents_density": 0.08035554707504264,
+      "runtime": 21.13199364299726
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.541015625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0781109022838134,
+      "runtime": 20.943208096996386
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.27734375,
+      "ISR2": 249,
+      "ISR3": 239,
+      "avg_agents_density": 0.15935631247106158,
+      "runtime": 65.91479513399622
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.197265625,
+      "ISR2": 248,
+      "ISR3": 233,
+      "avg_agents_density": 0.15973186692456923,
+      "runtime": 60.37880304299915
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.154296875,
+      "ISR2": 241,
+      "ISR3": 222,
+      "avg_agents_density": 0.1673537890155769,
+      "runtime": 60.249031381999885
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.203125,
+      "ISR2": 249,
+      "ISR3": 227,
+      "avg_agents_density": 0.16167094911531804,
+      "runtime": 58.149325257999976
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.15234375,
+      "ISR2": 251,
+      "ISR3": 230,
+      "avg_agents_density": 0.16651644125467632,
+      "runtime": 59.68702695100069
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.19921875,
+      "ISR2": 247,
+      "ISR3": 225,
+      "avg_agents_density": 0.16370966609121404,
+      "runtime": 52.63310997100075
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.169921875,
+      "ISR2": 247,
+      "ISR3": 228,
+      "avg_agents_density": 0.1652102982718603,
+      "runtime": 53.40638565299935
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.17578125,
+      "ISR2": 251,
+      "ISR3": 235,
+      "avg_agents_density": 0.16054732893195348,
+      "runtime": 61.08895473099983
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.291015625,
+      "ISR2": 254,
+      "ISR3": 240,
+      "avg_agents_density": 0.15694921626122346,
+      "runtime": 54.996204899997565
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.236328125,
+      "ISR2": 251,
+      "ISR3": 232,
+      "avg_agents_density": 0.16090605752691364,
+      "runtime": 53.05413219499519
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s45_wc4_od55",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3046875,
+      "ISR2": 29,
+      "ISR3": 27,
+      "avg_agents_density": 0.02990012563722758,
+      "runtime": 4.67729219800276
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.271484375,
+      "ISR2": 28,
+      "ISR3": 23,
+      "avg_agents_density": 0.030306335196581394,
+      "runtime": 4.638029939004809
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.365234375,
+      "ISR2": 30,
+      "ISR3": 27,
+      "avg_agents_density": 0.029236472018567522,
+      "runtime": 4.659682370003793
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.283203125,
+      "ISR2": 27,
+      "ISR3": 24,
+      "avg_agents_density": 0.03245738389233121,
+      "runtime": 4.617673349999677
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.408203125,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.02950792479338143,
+      "runtime": 4.6228623220104055
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.361328125,
+      "ISR2": 29,
+      "ISR3": 28,
+      "avg_agents_density": 0.029107546902087236,
+      "runtime": 4.630695660006495
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.27734375,
+      "ISR2": 28,
+      "ISR3": 25,
+      "avg_agents_density": 0.030134262709706053,
+      "runtime": 4.56851476599968
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.2421875,
+      "ISR2": 25,
+      "ISR3": 22,
+      "avg_agents_density": 0.03356824707736562,
+      "runtime": 4.654789689999234
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.33984375,
+      "ISR2": 28,
+      "ISR3": 28,
+      "avg_agents_density": 0.028972257930166636,
+      "runtime": 4.674980649982899
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.279296875,
+      "ISR2": 30,
+      "ISR3": 24,
+      "avg_agents_density": 0.030581906167641226,
+      "runtime": 4.616639275021953
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.943359375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04532773824926309,
+      "runtime": 9.444058935990142
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.859375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04445639969304166,
+      "runtime": 9.469960788997014
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.94921875,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04376369570604782,
+      "runtime": 9.416855046010824
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.904296875,
+      "ISR2": 61,
+      "ISR3": 61,
+      "avg_agents_density": 0.04261892638790268,
+      "runtime": 9.472743515005277
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.890625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04460649085006204,
+      "runtime": 9.524444051999126
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.919921875,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.04136668939312344,
+      "runtime": 9.445505974998014
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.93359375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.042629425975099514,
+      "runtime": 9.550196943994706
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.796875,
+      "ISR2": 62,
+      "ISR3": 60,
+      "avg_agents_density": 0.045525908566469986,
+      "runtime": 9.515059060977364
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.958984375,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.0431197687914429,
+      "runtime": 9.504247536001458
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.869140625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04303377486010405,
+      "runtime": 9.524987037987557
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.888671875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07469336089769377,
+      "runtime": 20.499619096999595
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.830078125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07450355862264998,
+      "runtime": 20.477121311999326
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07240412668486305,
+      "runtime": 20.600291652989654
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.890625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07590516372658153,
+      "runtime": 20.587315055013278
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.853515625,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.07499720155445076,
+      "runtime": 20.838103287004742
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.833984375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07486837963406147,
+      "runtime": 20.60613400499551
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.86328125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07329744737459823,
+      "runtime": 20.77042146801523
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.873046875,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.07297904605863019,
+      "runtime": 20.736134375000802
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.90625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07580132248137296,
+      "runtime": 20.31276511300075
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.806640625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07831172665322074,
+      "runtime": 20.784539030000815
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.978515625,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.14317852488668142,
+      "runtime": 54.08407555399913
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.912109375,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.14628625829435235,
+      "runtime": 55.11906844199939
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.0234375,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.14264154549999555,
+      "runtime": 54.97474512299914
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.890625,
+      "ISR2": 255,
+      "ISR3": 252,
+      "avg_agents_density": 0.14989058874089917,
+      "runtime": 55.41414718700298
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.84375,
+      "ISR2": 255,
+      "ISR3": 253,
+      "avg_agents_density": 0.14853644861761328,
+      "runtime": 54.7222066959971
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.001953125,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.14468879584435015,
+      "runtime": 55.75754908099498
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.9375,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.1440720852655777,
+      "runtime": 54.81458252199718
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.080078125,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.1375033753394151,
+      "runtime": 56.07970240599798
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.96484375,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.14464652843965065,
+      "runtime": 54.76623482300511
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.953125,
+      "ISR2": 254,
+      "ISR3": 254,
+      "avg_agents_density": 0.1468419228179056,
+      "runtime": 56.727645193999706
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s46_wc2_od55",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.33203125,
+      "ISR2": 28,
+      "ISR3": 26,
+      "avg_agents_density": 0.025613875732331134,
+      "runtime": 5.305954559003112
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.375,
+      "ISR2": 30,
+      "ISR3": 27,
+      "avg_agents_density": 0.02623279452740414,
+      "runtime": 5.364329666988851
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.443359375,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.024737645236827355,
+      "runtime": 5.359773779975512
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.416015625,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.0261946235283873,
+      "runtime": 5.3091795399996045
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.4453125,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.02557542728659845,
+      "runtime": 5.321205936001206
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3984375,
+      "ISR2": 32,
+      "ISR3": 31,
+      "avg_agents_density": 0.025161982636777522,
+      "runtime": 5.3791192439966835
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.40625,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.024958000919829696,
+      "runtime": 5.3214171949957745
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.2890625,
+      "ISR2": 30,
+      "ISR3": 28,
+      "avg_agents_density": 0.02824491109203588,
+      "runtime": 5.327336454999568
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.421875,
+      "ISR2": 30,
+      "ISR3": 27,
+      "avg_agents_density": 0.0253044419310669,
+      "runtime": 5.3348757269995986
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.376953125,
+      "ISR2": 31,
+      "ISR3": 28,
+      "avg_agents_density": 0.02742219319170253,
+      "runtime": 5.386469373002001
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.9765625,
+      "ISR2": 63,
+      "ISR3": 63,
+      "avg_agents_density": 0.03842603175125112,
+      "runtime": 10.815636061010991
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.9921875,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.03911175817031552,
+      "runtime": 10.837265206017946
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.98828125,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.03868283761539698,
+      "runtime": 10.845867863005878
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.029296875,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.038385131521316944,
+      "runtime": 10.777675196017299
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.982421875,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.0370254758631628,
+      "runtime": 10.804342390010788
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.029296875,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.0378154658258696,
+      "runtime": 10.823074616004305
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.98046875,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.03875392695014393,
+      "runtime": 10.75627222199546
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.9609375,
+      "ISR2": 63,
+      "ISR3": 63,
+      "avg_agents_density": 0.0383954986172569,
+      "runtime": 10.863602444999742
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.041015625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.037774023113539716,
+      "runtime": 10.819673669991062
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.037109375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.039145177198870194,
+      "runtime": 10.905450942989773
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.091796875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0653371927570046,
+      "runtime": 23.5032755870061
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.09765625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06425629576076092,
+      "runtime": 23.169148219995805
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.08203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06566108642884826,
+      "runtime": 23.12268177601527
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.103515625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06664428371978019,
+      "runtime": 23.165866310006095
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.048828125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06545507154492698,
+      "runtime": 22.988189640996097
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.08203125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06305668211545458,
+      "runtime": 23.0583496290119
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.009765625,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.06520531570858024,
+      "runtime": 23.205963400992914
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.98828125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0642718897504286,
+      "runtime": 23.199215063995325
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.1328125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.06564591297659408,
+      "runtime": 23.273281125983885
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.998046875,
+      "ISR2": 127,
+      "ISR3": 126,
+      "avg_agents_density": 0.06592216134980715,
+      "runtime": 23.012701689993264
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.533203125,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.12329903192170735,
+      "runtime": 60.79604016099802
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.623046875,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12067160221470113,
+      "runtime": 60.58368636599698
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.669921875,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.11913527269765313,
+      "runtime": 60.08270729699893
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.697265625,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12008942948133246,
+      "runtime": 59.849229286001446
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.595703125,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12453597550219357,
+      "runtime": 60.73094585700028
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.6875,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12014098433557845,
+      "runtime": 59.543789554000114
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.640625,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.11991824926414775,
+      "runtime": 61.06671593700116
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.51953125,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12402865786858314,
+      "runtime": 56.92699495699844
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.59375,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.12170577413511269,
+      "runtime": 58.98877345200083
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.62109375,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.1200670345395912,
+      "runtime": 56.623235807994206
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s47_wc2_od25",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.306640625,
+      "ISR2": 30,
+      "ISR3": 25,
+      "avg_agents_density": 0.02928045774551404,
+      "runtime": 4.653572130999237
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.341796875,
+      "ISR2": 31,
+      "ISR3": 29,
+      "avg_agents_density": 0.030490814946021134,
+      "runtime": 4.685401192007703
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.310546875,
+      "ISR2": 30,
+      "ISR3": 28,
+      "avg_agents_density": 0.03375086029901283,
+      "runtime": 4.559738827993897
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.275390625,
+      "ISR2": 27,
+      "ISR3": 24,
+      "avg_agents_density": 0.03287726663898143,
+      "runtime": 4.5420172250023825
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.35546875,
+      "ISR2": 29,
+      "ISR3": 28,
+      "avg_agents_density": 0.029427466265521427,
+      "runtime": 4.621529406997979
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3046875,
+      "ISR2": 28,
+      "ISR3": 26,
+      "avg_agents_density": 0.031153947953031693,
+      "runtime": 4.549055462009164
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.33203125,
+      "ISR2": 29,
+      "ISR3": 27,
+      "avg_agents_density": 0.02956170740503596,
+      "runtime": 4.669018492991199
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.349609375,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.02835101830506788,
+      "runtime": 4.61097037698346
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.228515625,
+      "ISR2": 26,
+      "ISR3": 22,
+      "avg_agents_density": 0.032442974216963905,
+      "runtime": 4.625728433986296
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.419921875,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.028645994352402622,
+      "runtime": 4.592808435993902
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.7421875,
+      "ISR2": 61,
+      "ISR3": 58,
+      "avg_agents_density": 0.0464125852979577,
+      "runtime": 9.475481690005836
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.85546875,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04472166114075082,
+      "runtime": 9.389555994980583
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.84765625,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.044557169372468244,
+      "runtime": 9.468783753006392
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.87890625,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04376299428378203,
+      "runtime": 9.380358716987757
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.82421875,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.04293059350402018,
+      "runtime": 9.351515271998323
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.86328125,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04507062102983027,
+      "runtime": 9.42416901499655
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.849609375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.042035567519946665,
+      "runtime": 9.379379219014481
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.83203125,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04425834357273297,
+      "runtime": 9.493483671990361
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.76171875,
+      "ISR2": 62,
+      "ISR3": 60,
+      "avg_agents_density": 0.046123228613243576,
+      "runtime": 9.480648836987712
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.84375,
+      "ISR2": 63,
+      "ISR3": 62,
+      "avg_agents_density": 0.04416939253345538,
+      "runtime": 9.282664087996636
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.73828125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07609004938634688,
+      "runtime": 20.320909036000558
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.677734375,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.07620541646419769,
+      "runtime": 20.3320788190058
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.771484375,
+      "ISR2": 128,
+      "ISR3": 127,
+      "avg_agents_density": 0.07365302081737785,
+      "runtime": 20.67666749500404
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.7578125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07435924308107057,
+      "runtime": 20.34450721500616
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.673828125,
+      "ISR2": 128,
+      "ISR3": 126,
+      "avg_agents_density": 0.07523597622776189,
+      "runtime": 20.47956326100575
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.744140625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07599730487869792,
+      "runtime": 20.43377637600679
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.716796875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0724093333072503,
+      "runtime": 20.491302183993866
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.66015625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07390039282085596,
+      "runtime": 20.485257523005203
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.720703125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07638165714013014,
+      "runtime": 20.18230507199678
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.68359375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0747170071052857,
+      "runtime": 20.37481097300224
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.658203125,
+      "ISR2": 255,
+      "ISR3": 253,
+      "avg_agents_density": 0.14066531434004897,
+      "runtime": 51.618008766993626
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.6796875,
+      "ISR2": 256,
+      "ISR3": 250,
+      "avg_agents_density": 0.1416997570801475,
+      "runtime": 51.02026455299347
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.783203125,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.13698297143995858,
+      "runtime": 51.64108595599646
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.697265625,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.14095112750934774,
+      "runtime": 51.95854198899269
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.6015625,
+      "ISR2": 256,
+      "ISR3": 249,
+      "avg_agents_density": 0.14402423487935523,
+      "runtime": 50.77774342500288
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.658203125,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.1476793758073171,
+      "runtime": 51.477509036010815
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.669921875,
+      "ISR2": 256,
+      "ISR3": 254,
+      "avg_agents_density": 0.13893740458899187,
+      "runtime": 51.73103662099675
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.677734375,
+      "ISR2": 256,
+      "ISR3": 253,
+      "avg_agents_density": 0.14244078874934626,
+      "runtime": 51.60676598298687
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.623046875,
+      "ISR2": 255,
+      "ISR3": 252,
+      "avg_agents_density": 0.14612685652701807,
+      "runtime": 51.37274707601773
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.7265625,
+      "ISR2": 256,
+      "ISR3": 253,
+      "avg_agents_density": 0.13732062829843372,
+      "runtime": 52.220919529996536
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s48_wc3_od65",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.2578125,
+      "ISR2": 26,
+      "ISR3": 23,
+      "avg_agents_density": 0.03536265685850728,
+      "runtime": 4.687590273993919
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.40234375,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.02921228642937974,
+      "runtime": 4.761602805997427
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.33203125,
+      "ISR2": 29,
+      "ISR3": 26,
+      "avg_agents_density": 0.02974766567143953,
+      "runtime": 4.803525468001681
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.349609375,
+      "ISR2": 31,
+      "ISR3": 30,
+      "avg_agents_density": 0.030203936028533922,
+      "runtime": 4.751852075016359
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.39453125,
+      "ISR2": 32,
+      "ISR3": 32,
+      "avg_agents_density": 0.02741397995078681,
+      "runtime": 4.708269156009919
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.248046875,
+      "ISR2": 26,
+      "ISR3": 21,
+      "avg_agents_density": 0.0344211211130811,
+      "runtime": 4.6956867100007
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.35546875,
+      "ISR2": 30,
+      "ISR3": 29,
+      "avg_agents_density": 0.028961449285942523,
+      "runtime": 4.764595229013139
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.3984375,
+      "ISR2": 31,
+      "ISR3": 29,
+      "avg_agents_density": 0.027059433327583177,
+      "runtime": 4.772056347999751
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.365234375,
+      "ISR2": 30,
+      "ISR3": 29,
+      "avg_agents_density": 0.030118428171716626,
+      "runtime": 4.783176124008605
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.21875,
+      "ISR2": 26,
+      "ISR3": 19,
+      "avg_agents_density": 0.035776329125751294,
+      "runtime": 4.679203892015721
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.986328125,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04327500134436703,
+      "runtime": 9.603469316000883
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.935546875,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04368709848796405,
+      "runtime": 9.570248465005534
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.931640625,
+      "ISR2": 64,
+      "ISR3": 62,
+      "avg_agents_density": 0.043271454120735985,
+      "runtime": 9.648269777002497
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.96484375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.0434024853545764,
+      "runtime": 9.67763813399688
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.912109375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.04020944842168175,
+      "runtime": 9.696962831006203
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.923828125,
+      "ISR2": 64,
+      "ISR3": 62,
+      "avg_agents_density": 0.04181744418959354,
+      "runtime": 9.646599945997878
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.970703125,
+      "ISR2": 64,
+      "ISR3": 63,
+      "avg_agents_density": 0.04236573456468619,
+      "runtime": 9.53483988500102
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.958984375,
+      "ISR2": 64,
+      "ISR3": 64,
+      "avg_agents_density": 0.041238529355791635,
+      "runtime": 9.647665631986456
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.900390625,
+      "ISR2": 63,
+      "ISR3": 61,
+      "avg_agents_density": 0.0438722150126262,
+      "runtime": 9.649996728979204
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 0.953125,
+      "ISR2": 64,
+      "ISR3": 62,
+      "avg_agents_density": 0.042125311964905536,
+      "runtime": 9.71424210000896
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.98046875,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07121524739944808,
+      "runtime": 20.963428657001714
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.931640625,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07387062395322032,
+      "runtime": 21.037467552995622
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.955078125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07235710242138212,
+      "runtime": 20.963447284998438
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.970703125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07288944332506099,
+      "runtime": 20.69671955001286
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.8984375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07200041235097349,
+      "runtime": 21.12971428698438
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.986328125,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.0702458510671134,
+      "runtime": 20.93648855999436
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.93359375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07164393756409938,
+      "runtime": 20.977765693002766
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.958984375,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07163396645661582,
+      "runtime": 20.97267544999977
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 2.0,
+      "ISR2": 128,
+      "ISR3": 128,
+      "avg_agents_density": 0.07374198501623858,
+      "runtime": 20.812708145996112
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 1.931640625,
+      "ISR2": 127,
+      "ISR3": 127,
+      "avg_agents_density": 0.07245964902852321,
+      "runtime": 20.890013678001196
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.294921875,
+      "ISR2": 255,
+      "ISR3": 255,
+      "avg_agents_density": 0.13969906396367876,
+      "runtime": 52.76945162200445
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 0
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.189453125,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.13652505893005784,
+      "runtime": 52.61972889900335
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 1
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.333984375,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.13407246918556667,
+      "runtime": 52.80397917699611
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 2
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.37890625,
+      "ISR2": 256,
+      "ISR3": 255,
+      "avg_agents_density": 0.13630988596461924,
+      "runtime": 52.74151140799859
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 3
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.193359375,
+      "ISR2": 255,
+      "ISR3": 253,
+      "avg_agents_density": 0.13942973762488148,
+      "runtime": 52.97057199600022
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 4
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.1953125,
+      "ISR2": 254,
+      "ISR3": 253,
+      "avg_agents_density": 0.13987310171262707,
+      "runtime": 52.547736031003296
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 5
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.232421875,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.13681133832624212,
+      "runtime": 52.8466447189885
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 6
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.3515625,
+      "ISR2": 256,
+      "ISR3": 256,
+      "avg_agents_density": 0.136238611004819,
+      "runtime": 52.889228144009394
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 7
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.24609375,
+      "ISR2": 255,
+      "ISR3": 253,
+      "avg_agents_density": 0.1428974738969793,
+      "runtime": 63.74371875999759
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 8
+    },
+    "algorithm": "DCTP"
+  },
+  {
+    "metrics": {
+      "avg_throughput": 3.3359375,
+      "ISR2": 254,
+      "ISR3": 254,
+      "avg_agents_density": 0.13526908023011414,
+      "runtime": 54.12801883200211
+    },
+    "env_grid_search": {
+      "map_name": "test-mazes-s49_wc2_od50",
+      "num_agents": 256,
+      "seed": 9
+    },
+    "algorithm": "DCTP"
+  }
+]

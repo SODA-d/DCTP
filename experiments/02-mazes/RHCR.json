@@ -1,0 +1,6402 @@
+[
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.026271156586452682,
+            "runtime": 4.284875047994319
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.029134029624339877,
+            "runtime": 3.9393601889905767
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.013671875,
+            "ISR": 0.21875,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.02568249474720641,
+            "runtime": 4.702739201008626
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.028156394795203966,
+            "runtime": 3.695081907999338
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.026600423661894478,
+            "runtime": 5.2509423389929
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0234375,
+            "ISR": 0.375,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.03021811401047337,
+            "runtime": 4.040064543994049
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.029595449103673822,
+            "runtime": 4.035741842991229
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.017578125,
+            "ISR": 0.28125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.024869193343804812,
+            "runtime": 5.054396112016548
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.03024985525185585,
+            "runtime": 4.3154665710026165
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.017578125,
+            "ISR": 0.28125,
+            "ISR2": 1,
+            "ISR3": 1,
+            "avg_agents_density": 0.027911190210679816,
+            "runtime": 3.7744219190008153
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.048828125,
+            "ISR": 0.390625,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.03984353037568835,
+            "runtime": 10.631188341987581
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05078125,
+            "ISR": 0.40625,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.04347359626427816,
+            "runtime": 8.449958139987757
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.052734375,
+            "ISR": 0.421875,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.038461187565038635,
+            "runtime": 9.65654872900177
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.04312696613306844,
+            "runtime": 7.709669171002133
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.056640625,
+            "ISR": 0.453125,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.04086494339398905,
+            "runtime": 11.191984299992328
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05859375,
+            "ISR": 0.46875,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.0498153031870144,
+            "runtime": 8.576685742990776
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.052734375,
+            "ISR": 0.421875,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.04666839644173144,
+            "runtime": 8.805215730992131
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.037109375,
+            "ISR": 0.296875,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.03955630895218971,
+            "runtime": 9.703351237001698
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.076171875,
+            "ISR": 0.609375,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.04465115208997372,
+            "runtime": 8.300883667990092
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.064453125,
+            "ISR": 0.515625,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.043476945697379366,
+            "runtime": 8.785963202006315
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.099609375,
+            "ISR": 0.3984375,
+            "ISR2": 15,
+            "ISR3": 3,
+            "avg_agents_density": 0.07056587599624188,
+            "runtime": 22.617442276000475
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 11,
+            "ISR3": 3,
+            "avg_agents_density": 0.07178141260596194,
+            "runtime": 20.839843438008756
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.10546875,
+            "ISR": 0.421875,
+            "ISR2": 8,
+            "ISR3": 2,
+            "avg_agents_density": 0.06135258666149902,
+            "runtime": 25.716106872993805
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0859375,
+            "ISR": 0.34375,
+            "ISR2": 6,
+            "ISR3": 0,
+            "avg_agents_density": 0.0696937625786351,
+            "runtime": 18.864198690997
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.134765625,
+            "ISR": 0.5390625,
+            "ISR2": 11,
+            "ISR3": 3,
+            "avg_agents_density": 0.06731247829016543,
+            "runtime": 21.341132854994612
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 12,
+            "ISR3": 6,
+            "avg_agents_density": 0.0850785965523527,
+            "runtime": 23.725611021002806
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.126953125,
+            "ISR": 0.5078125,
+            "ISR2": 16,
+            "ISR3": 3,
+            "avg_agents_density": 0.07410855639726188,
+            "runtime": 19.84438520301228
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.111328125,
+            "ISR": 0.4453125,
+            "ISR2": 9,
+            "ISR3": 1,
+            "avg_agents_density": 0.06557433721118082,
+            "runtime": 21.40579476998755
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.13671875,
+            "ISR": 0.546875,
+            "ISR2": 16,
+            "ISR3": 7,
+            "avg_agents_density": 0.07394449495140784,
+            "runtime": 22.639203359999556
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.111328125,
+            "ISR": 0.4453125,
+            "ISR2": 11,
+            "ISR3": 4,
+            "avg_agents_density": 0.06925788362122366,
+            "runtime": 18.203418697003144
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.181640625,
+            "ISR": 0.36328125,
+            "ISR2": 18,
+            "ISR3": 5,
+            "avg_agents_density": 0.17196307304018826,
+            "runtime": 187.48598282399598
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12890625,
+            "ISR": 0.2578125,
+            "ISR2": 8,
+            "ISR3": 0,
+            "avg_agents_density": 0.20110656878982305,
+            "runtime": 831.3624353760088
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.23828125,
+            "ISR": 0.4765625,
+            "ISR2": 23,
+            "ISR3": 7,
+            "avg_agents_density": 0.11315043170433865,
+            "runtime": 141.20803462999993
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.162109375,
+            "ISR": 0.32421875,
+            "ISR2": 10,
+            "ISR3": 0,
+            "avg_agents_density": 0.19538140506454515,
+            "runtime": 106.544486056001
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.251953125,
+            "ISR": 0.50390625,
+            "ISR2": 24,
+            "ISR3": 10,
+            "avg_agents_density": 0.11911516062291672,
+            "runtime": 86.27778529598709
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0859375,
+            "ISR": 0.171875,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.22979992606932892,
+            "runtime": 956.6878767380013
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.267578125,
+            "ISR": 0.53515625,
+            "ISR2": 31,
+            "ISR3": 8,
+            "avg_agents_density": 0.13624079099928768,
+            "runtime": 101.68187403599677
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.212890625,
+            "ISR": 0.42578125,
+            "ISR2": 17,
+            "ISR3": 5,
+            "avg_agents_density": 0.11631769595635975,
+            "runtime": 83.63290370801224
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.18359375,
+            "ISR": 0.3671875,
+            "ISR2": 15,
+            "ISR3": 3,
+            "avg_agents_density": 0.209772966112563,
+            "runtime": 152.7287278620006
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.234375,
+            "ISR": 0.46875,
+            "ISR2": 25,
+            "ISR3": 9,
+            "avg_agents_density": 0.12508446050080563,
+            "runtime": 81.75851494199287
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.048828125,
+            "ISR": 0.78125,
+            "ISR2": 7,
+            "ISR3": 2,
+            "avg_agents_density": 0.027449713971604166,
+            "runtime": 4.2957919649979885
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 1,
+            "ISR3": 1,
+            "avg_agents_density": 0.028313597504628113,
+            "runtime": 3.8409373409895124
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01171875,
+            "ISR": 0.1875,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.024417339367663063,
+            "runtime": 4.63459275299283
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.029055358119204427,
+            "runtime": 3.929301640984704
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01171875,
+            "ISR": 0.1875,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.027139415539998317,
+            "runtime": 4.413678392998008
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.03128819481672489,
+            "runtime": 4.101156443008222
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.029282100602083676,
+            "runtime": 3.918995747001645
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.027693135768122972,
+            "runtime": 4.5994872059900445
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.6875,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.029280942364531142,
+            "runtime": 4.450328298989916
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.015625,
+            "ISR": 0.25,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.028528163570309805,
+            "runtime": 3.7879317819906646
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.056640625,
+            "ISR": 0.453125,
+            "ISR2": 6,
+            "ISR3": 0,
+            "avg_agents_density": 0.04134105672624883,
+            "runtime": 9.273196468996503
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.34375,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.04228658515810043,
+            "runtime": 9.620774898011405
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.041015625,
+            "ISR": 0.328125,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.03656912516143792,
+            "runtime": 9.447605409000062
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.25,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.04531754693239109,
+            "runtime": 8.538282244001493
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.04099398911167849,
+            "runtime": 9.362450018006712
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.080078125,
+            "ISR": 0.640625,
+            "ISR2": 9,
+            "ISR3": 3,
+            "avg_agents_density": 0.04914436462831248,
+            "runtime": 8.353722447997825
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0546875,
+            "ISR": 0.4375,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.0460225106881632,
+            "runtime": 8.441012615990985
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05859375,
+            "ISR": 0.46875,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.03976220521433595,
+            "runtime": 8.675334627006123
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.078125,
+            "ISR": 0.625,
+            "ISR2": 10,
+            "ISR3": 3,
+            "avg_agents_density": 0.045849822849101184,
+            "runtime": 9.529429027990773
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 5,
+            "ISR3": 1,
+            "avg_agents_density": 0.04411210499064311,
+            "runtime": 7.883491853993291
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.142578125,
+            "ISR": 0.5703125,
+            "ISR2": 16,
+            "ISR3": 7,
+            "avg_agents_density": 0.06922090895218275,
+            "runtime": 22.69242319501427
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.13671875,
+            "ISR": 0.546875,
+            "ISR2": 21,
+            "ISR3": 7,
+            "avg_agents_density": 0.07095138644273821,
+            "runtime": 21.694490728988967
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.08984375,
+            "ISR": 0.359375,
+            "ISR2": 8,
+            "ISR3": 2,
+            "avg_agents_density": 0.061361485596260416,
+            "runtime": 22.136363812997843
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 11,
+            "ISR3": 6,
+            "avg_agents_density": 0.07554386053431587,
+            "runtime": 24.04750370099373
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.08984375,
+            "ISR": 0.359375,
+            "ISR2": 8,
+            "ISR3": 3,
+            "avg_agents_density": 0.06791970089624502,
+            "runtime": 21.650503322009172
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.138671875,
+            "ISR": 0.5546875,
+            "ISR2": 16,
+            "ISR3": 3,
+            "avg_agents_density": 0.08079260691813522,
+            "runtime": 21.967955623021226
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 12,
+            "ISR3": 4,
+            "avg_agents_density": 0.07704102517090658,
+            "runtime": 24.290876107010263
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.107421875,
+            "ISR": 0.4296875,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.06489661687377683,
+            "runtime": 22.333010359997388
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.14453125,
+            "ISR": 0.578125,
+            "ISR2": 17,
+            "ISR3": 9,
+            "avg_agents_density": 0.07720434631801236,
+            "runtime": 20.717783473988675
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.125,
+            "ISR": 0.5,
+            "ISR2": 13,
+            "ISR3": 3,
+            "avg_agents_density": 0.073398815374079,
+            "runtime": 19.307417331012402
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.173828125,
+            "ISR": 0.34765625,
+            "ISR2": 13,
+            "ISR3": 2,
+            "avg_agents_density": 0.2133134096517565,
+            "runtime": 141.69166660699375
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.126953125,
+            "ISR": 0.25390625,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.19234188728680268,
+            "runtime": 515.9396220430053
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.208984375,
+            "ISR": 0.41796875,
+            "ISR2": 20,
+            "ISR3": 9,
+            "avg_agents_density": 0.12380679995216715,
+            "runtime": 163.00565173799987
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.2265625,
+            "ISR": 0.453125,
+            "ISR2": 28,
+            "ISR3": 3,
+            "avg_agents_density": 0.15601757376541597,
+            "runtime": 117.45980002800025
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.2578125,
+            "ISR": 0.515625,
+            "ISR2": 26,
+            "ISR3": 7,
+            "avg_agents_density": 0.11963427581482534,
+            "runtime": 86.21680272198773
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.15234375,
+            "ISR": 0.3046875,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.23852117779231602,
+            "runtime": 828.4076034269938
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.31640625,
+            "ISR": 0.6328125,
+            "ISR2": 36,
+            "ISR3": 13,
+            "avg_agents_density": 0.14167800996808697,
+            "runtime": 132.53284461099065
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.20703125,
+            "ISR": 0.4140625,
+            "ISR2": 18,
+            "ISR3": 4,
+            "avg_agents_density": 0.11630499371054251,
+            "runtime": 84.27438882700517
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.203125,
+            "ISR": 0.40625,
+            "ISR2": 20,
+            "ISR3": 1,
+            "avg_agents_density": 0.20260429159542478,
+            "runtime": 601.3315815560009
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.193359375,
+            "ISR": 0.38671875,
+            "ISR2": 16,
+            "ISR3": 7,
+            "avg_agents_density": 0.18722280532709348,
+            "runtime": 106.79394060702361
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0234375,
+            "ISR": 0.375,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.026409402503723138,
+            "runtime": 4.458588250999128
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.027453428450244764,
+            "runtime": 3.8320953159973214
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.023840512396209483,
+            "runtime": 4.857416365985046
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.015625,
+            "ISR": 0.25,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.02798959880411836,
+            "runtime": 3.9451735739885407
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 2,
+            "ISR3": 2,
+            "avg_agents_density": 0.025874725522890392,
+            "runtime": 4.309039915990979
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 1,
+            "ISR3": 1,
+            "avg_agents_density": 0.030339440078353163,
+            "runtime": 3.84313772299447
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.028039075092877373,
+            "runtime": 4.38864957399619
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.015625,
+            "ISR": 0.25,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.02476148543281139,
+            "runtime": 4.2023567849973915
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.71875,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.028697572939979217,
+            "runtime": 1.529447891009113
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.028159069765061124,
+            "runtime": 4.12052462200063
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.064453125,
+            "ISR": 0.515625,
+            "ISR2": 7,
+            "ISR3": 3,
+            "avg_agents_density": 0.04111159050374396,
+            "runtime": 10.1125872490029
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.060546875,
+            "ISR": 0.484375,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.04580392527947202,
+            "runtime": 7.942193843012319
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.068359375,
+            "ISR": 0.546875,
+            "ISR2": 7,
+            "ISR3": 3,
+            "avg_agents_density": 0.0349574889374291,
+            "runtime": 9.55969161000121
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.041876585856862325,
+            "runtime": 8.46658220399604
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05859375,
+            "ISR": 0.46875,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.0395630394156752,
+            "runtime": 10.77056115400228
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.080078125,
+            "ISR": 0.640625,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.0437131970621853,
+            "runtime": 8.28294281700164
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0625,
+            "ISR": 0.5,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.04438968571069034,
+            "runtime": 7.619616736003081
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.34375,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.03843750768024196,
+            "runtime": 10.9201492459988
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.06640625,
+            "ISR": 0.53125,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.04412392111282134,
+            "runtime": 8.097905833002187
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.078125,
+            "ISR": 0.625,
+            "ISR2": 10,
+            "ISR3": 1,
+            "avg_agents_density": 0.043341680510875925,
+            "runtime": 8.440988369015031
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.095703125,
+            "ISR": 0.3828125,
+            "ISR2": 9,
+            "ISR3": 2,
+            "avg_agents_density": 0.06825252858017289,
+            "runtime": 21.83374566799921
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 12,
+            "ISR3": 3,
+            "avg_agents_density": 0.07291194372143865,
+            "runtime": 22.153336998995655
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.083984375,
+            "ISR": 0.3359375,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.058504024017066746,
+            "runtime": 22.589208105985563
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.125,
+            "ISR": 0.5,
+            "ISR2": 10,
+            "ISR3": 5,
+            "avg_agents_density": 0.07065537687937336,
+            "runtime": 23.81490772199959
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 14,
+            "ISR3": 3,
+            "avg_agents_density": 0.06682104246822558,
+            "runtime": 20.705557086987938
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.146484375,
+            "ISR": 0.5859375,
+            "ISR2": 16,
+            "ISR3": 3,
+            "avg_agents_density": 0.07945919248489083,
+            "runtime": 22.445360900993364
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09375,
+            "ISR": 0.375,
+            "ISR2": 8,
+            "ISR3": 1,
+            "avg_agents_density": 0.07230766079923984,
+            "runtime": 22.1531697920027
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.083984375,
+            "ISR": 0.3359375,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.06433031490239549,
+            "runtime": 20.24507334399277
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.19140625,
+            "ISR": 0.765625,
+            "ISR2": 23,
+            "ISR3": 8,
+            "avg_agents_density": 0.07429351206783129,
+            "runtime": 20.636402062999878
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 10,
+            "ISR3": 5,
+            "avg_agents_density": 0.0715030382904945,
+            "runtime": 20.545567404020403
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1484375,
+            "ISR": 0.296875,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.20910604636480498,
+            "runtime": 160.90397009098888
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.23828125,
+            "ISR": 0.4765625,
+            "ISR2": 21,
+            "ISR3": 3,
+            "avg_agents_density": 0.18862828157458528,
+            "runtime": 342.62919831998533
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.162109375,
+            "ISR": 0.32421875,
+            "ISR2": 8,
+            "ISR3": 2,
+            "avg_agents_density": 0.14478020517170662,
+            "runtime": 124.30659236499832
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.2578125,
+            "ISR": 0.515625,
+            "ISR2": 32,
+            "ISR3": 7,
+            "avg_agents_density": 0.1313127712546981,
+            "runtime": 92.87125202200514
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.22265625,
+            "ISR": 0.4453125,
+            "ISR2": 24,
+            "ISR3": 4,
+            "avg_agents_density": 0.11824108700111205,
+            "runtime": 83.66004585299925
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.19140625,
+            "ISR": 0.3828125,
+            "ISR2": 14,
+            "ISR3": 3,
+            "avg_agents_density": 0.27401087752120373,
+            "runtime": 890.7243352150017
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.220703125,
+            "ISR": 0.44140625,
+            "ISR2": 18,
+            "ISR3": 8,
+            "avg_agents_density": 0.13446104891559885,
+            "runtime": 115.81795393100401
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.189453125,
+            "ISR": 0.37890625,
+            "ISR2": 17,
+            "ISR3": 5,
+            "avg_agents_density": 0.11300724943078323,
+            "runtime": 80.89017769401016
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.25,
+            "ISR": 0.5,
+            "ISR2": 35,
+            "ISR3": 6,
+            "avg_agents_density": 0.182841812545798,
+            "runtime": 121.69877115800864
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.158203125,
+            "ISR": 0.31640625,
+            "ISR2": 9,
+            "ISR3": 2,
+            "avg_agents_density": 0.1968894819041825,
+            "runtime": 101.60867106299884
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01171875,
+            "ISR": 0.1875,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.025983024842497614,
+            "runtime": 4.540664362993994
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.029454471328659484,
+            "runtime": 3.912607176001984
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.024764665378712095,
+            "runtime": 4.3367161969954395
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.009765625,
+            "ISR": 0.15625,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.028111538409320957,
+            "runtime": 4.530195458999515
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.017578125,
+            "ISR": 0.28125,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.02597034244395944,
+            "runtime": 4.417824885996197
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0234375,
+            "ISR": 0.375,
+            "ISR2": 1,
+            "ISR3": 1,
+            "avg_agents_density": 0.029950038890395263,
+            "runtime": 3.973720900004082
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.5625,
+            "ISR2": 4,
+            "ISR3": 3,
+            "avg_agents_density": 0.028032724304237647,
+            "runtime": 4.167680107004344
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.02631780566407364,
+            "runtime": 4.71130217901009
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.6875,
+            "ISR2": 7,
+            "ISR3": 2,
+            "avg_agents_density": 0.028997921730489574,
+            "runtime": 3.6832704440212183
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.015625,
+            "ISR": 0.25,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.027202542638639148,
+            "runtime": 4.441637624001487
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05078125,
+            "ISR": 0.40625,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.04043088888143117,
+            "runtime": 9.476745202005077
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.043850121142965645,
+            "runtime": 8.471803801012356
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.041015625,
+            "ISR": 0.328125,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.037435007641823836,
+            "runtime": 8.96313273200849
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.046875,
+            "ISR": 0.375,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.04332854703079137,
+            "runtime": 9.59499265001159
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.34375,
+            "ISR2": 5,
+            "ISR3": 1,
+            "avg_agents_density": 0.04127469977994012,
+            "runtime": 9.149257128993668
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.037109375,
+            "ISR": 0.296875,
+            "ISR2": 3,
+            "ISR3": 2,
+            "avg_agents_density": 0.04616317523405779,
+            "runtime": 8.556886970007326
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.06640625,
+            "ISR": 0.53125,
+            "ISR2": 7,
+            "ISR3": 3,
+            "avg_agents_density": 0.043981943451071495,
+            "runtime": 8.02795289399819
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.037109375,
+            "ISR": 0.296875,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.03988181738565325,
+            "runtime": 11.129128093990403
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.064453125,
+            "ISR": 0.515625,
+            "ISR2": 8,
+            "ISR3": 1,
+            "avg_agents_density": 0.04335674269199512,
+            "runtime": 7.826481023992528
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.042792916265455366,
+            "runtime": 8.566907134998473
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.109375,
+            "ISR": 0.4375,
+            "ISR2": 11,
+            "ISR3": 1,
+            "avg_agents_density": 0.06522778965183507,
+            "runtime": 20.426928049010712
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09375,
+            "ISR": 0.375,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.07345985764790292,
+            "runtime": 24.58700946899171
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1015625,
+            "ISR": 0.40625,
+            "ISR2": 9,
+            "ISR3": 3,
+            "avg_agents_density": 0.0619660036334117,
+            "runtime": 23.90182153899059
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09765625,
+            "ISR": 0.390625,
+            "ISR2": 7,
+            "ISR3": 2,
+            "avg_agents_density": 0.07239355539738149,
+            "runtime": 20.33501547198739
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.10546875,
+            "ISR": 0.421875,
+            "ISR2": 8,
+            "ISR3": 4,
+            "avg_agents_density": 0.06757522953370583,
+            "runtime": 21.424891399014996
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 8,
+            "ISR3": 4,
+            "avg_agents_density": 0.07924104978589303,
+            "runtime": 23.910720539998692
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.140625,
+            "ISR": 0.5625,
+            "ISR2": 14,
+            "ISR3": 6,
+            "avg_agents_density": 0.07505266598289789,
+            "runtime": 20.152833456001645
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.076171875,
+            "ISR": 0.3046875,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.06589668132150471,
+            "runtime": 24.340741472993614
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 13,
+            "ISR3": 2,
+            "avg_agents_density": 0.07383989760334522,
+            "runtime": 22.59448626399444
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.099609375,
+            "ISR": 0.3984375,
+            "ISR2": 12,
+            "ISR3": 3,
+            "avg_agents_density": 0.07000651271448212,
+            "runtime": 22.624866344008296
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.224609375,
+            "ISR": 0.44921875,
+            "ISR2": 24,
+            "ISR3": 4,
+            "avg_agents_density": 0.12395605043128655,
+            "runtime": 111.71807352599262
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.171875,
+            "ISR": 0.34375,
+            "ISR2": 8,
+            "ISR3": 3,
+            "avg_agents_density": 0.1990585386814721,
+            "runtime": 780.9740117739966
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.234375,
+            "ISR": 0.46875,
+            "ISR2": 29,
+            "ISR3": 4,
+            "avg_agents_density": 0.16819538240515683,
+            "runtime": 222.39384893000897
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.201171875,
+            "ISR": 0.40234375,
+            "ISR2": 16,
+            "ISR3": 6,
+            "avg_agents_density": 0.1799486318578299,
+            "runtime": 188.97970225100926
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.22265625,
+            "ISR": 0.4453125,
+            "ISR2": 20,
+            "ISR3": 7,
+            "avg_agents_density": 0.11980048921027922,
+            "runtime": 84.65124021700285
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.212890625,
+            "ISR": 0.42578125,
+            "ISR2": 18,
+            "ISR3": 2,
+            "avg_agents_density": 0.22938368414737334,
+            "runtime": 816.9348181019996
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.265625,
+            "ISR": 0.53125,
+            "ISR2": 28,
+            "ISR3": 11,
+            "avg_agents_density": 0.13368172428002284,
+            "runtime": 103.46127156800594
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.212890625,
+            "ISR": 0.42578125,
+            "ISR2": 17,
+            "ISR3": 4,
+            "avg_agents_density": 0.1167644644819916,
+            "runtime": 81.73834665198319
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.279296875,
+            "ISR": 0.55859375,
+            "ISR2": 31,
+            "ISR3": 10,
+            "avg_agents_density": 0.1365064737410988,
+            "runtime": 125.39159135299269
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.25390625,
+            "ISR": 0.5078125,
+            "ISR2": 26,
+            "ISR3": 5,
+            "avg_agents_density": 0.12391211665462015,
+            "runtime": 84.71339193299173
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.027188610983108735,
+            "runtime": 4.112496351000118
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.033203125,
+            "ISR": 0.53125,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.028162844762818003,
+            "runtime": 4.208210359993245
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.024436093348693226,
+            "runtime": 4.750873586993293
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0234375,
+            "ISR": 0.375,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.02814480686000125,
+            "runtime": 4.572782082987942
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0390625,
+            "ISR": 0.625,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.026684166416561666,
+            "runtime": 3.9618303130009735
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.046875,
+            "ISR": 0.75,
+            "ISR2": 6,
+            "ISR3": 3,
+            "avg_agents_density": 0.030082924365911624,
+            "runtime": 4.3793141620017195
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.030402464600616845,
+            "runtime": 3.9975585679867436
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.025136525190076354,
+            "runtime": 4.436809689004804
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.033203125,
+            "ISR": 0.53125,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.028667944881676944,
+            "runtime": 3.650650322000729
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.0273636331436641,
+            "runtime": 1.2114840359936352
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0546875,
+            "ISR": 0.4375,
+            "ISR2": 8,
+            "ISR3": 2,
+            "avg_agents_density": 0.04087390218151476,
+            "runtime": 8.784372566992715
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.080078125,
+            "ISR": 0.640625,
+            "ISR2": 9,
+            "ISR3": 2,
+            "avg_agents_density": 0.04148130344004386,
+            "runtime": 9.019444304009085
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.052734375,
+            "ISR": 0.421875,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.036099643042338425,
+            "runtime": 9.023111906006307
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.28125,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.0430502270323141,
+            "runtime": 9.479293811005846
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.052734375,
+            "ISR": 0.421875,
+            "ISR2": 5,
+            "ISR3": 1,
+            "avg_agents_density": 0.0413601257762322,
+            "runtime": 3.423633189991051
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.07421875,
+            "ISR": 0.59375,
+            "ISR2": 10,
+            "ISR3": 3,
+            "avg_agents_density": 0.04705356326775564,
+            "runtime": 9.179458263011838
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.06640625,
+            "ISR": 0.53125,
+            "ISR2": 8,
+            "ISR3": 1,
+            "avg_agents_density": 0.044955482630443175,
+            "runtime": 7.999907289997282
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.25,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.038540145222251423,
+            "runtime": 10.236588147997281
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0625,
+            "ISR": 0.5,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.04388191967445224,
+            "runtime": 7.562913131987443
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0546875,
+            "ISR": 0.4375,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.041147920381990895,
+            "runtime": 8.308235695993062
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.099609375,
+            "ISR": 0.3984375,
+            "ISR2": 9,
+            "ISR3": 3,
+            "avg_agents_density": 0.06898051308661064,
+            "runtime": 25.42657274400335
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.119140625,
+            "ISR": 0.4765625,
+            "ISR2": 14,
+            "ISR3": 3,
+            "avg_agents_density": 0.07160094557919609,
+            "runtime": 22.06772504401033
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.109375,
+            "ISR": 0.4375,
+            "ISR2": 10,
+            "ISR3": 2,
+            "avg_agents_density": 0.0594700162309851,
+            "runtime": 23.460370930000863
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.11328125,
+            "ISR": 0.453125,
+            "ISR2": 12,
+            "ISR3": 6,
+            "avg_agents_density": 0.07368316603896335,
+            "runtime": 23.258090104995972
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.099609375,
+            "ISR": 0.3984375,
+            "ISR2": 9,
+            "ISR3": 1,
+            "avg_agents_density": 0.06759077050130281,
+            "runtime": 22.396228715005236
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 14,
+            "ISR3": 3,
+            "avg_agents_density": 0.08041013052851653,
+            "runtime": 21.159945834995597
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.095703125,
+            "ISR": 0.3828125,
+            "ISR2": 9,
+            "ISR3": 1,
+            "avg_agents_density": 0.07631711602741761,
+            "runtime": 22.974757596004565
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.095703125,
+            "ISR": 0.3828125,
+            "ISR2": 8,
+            "ISR3": 1,
+            "avg_agents_density": 0.06628227718462901,
+            "runtime": 21.65837131898843
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.115234375,
+            "ISR": 0.4609375,
+            "ISR2": 10,
+            "ISR3": 3,
+            "avg_agents_density": 0.07501579043702081,
+            "runtime": 19.62074759700863
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1171875,
+            "ISR": 0.46875,
+            "ISR2": 16,
+            "ISR3": 0,
+            "avg_agents_density": 0.07116644657856872,
+            "runtime": 19.807130456995765
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.205078125,
+            "ISR": 0.41015625,
+            "ISR2": 17,
+            "ISR3": 6,
+            "avg_agents_density": 0.20223623146070702,
+            "runtime": 163.53436355500298
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.134765625,
+            "ISR": 0.26953125,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.2030563756591658,
+            "runtime": 467.8331368009958
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.162109375,
+            "ISR": 0.32421875,
+            "ISR2": 10,
+            "ISR3": 0,
+            "avg_agents_density": 0.1732881751196235,
+            "runtime": 168.6378558920078
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.181640625,
+            "ISR": 0.36328125,
+            "ISR2": 14,
+            "ISR3": 3,
+            "avg_agents_density": 0.19056165750512946,
+            "runtime": 345.4512800699922
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.21875,
+            "ISR": 0.4375,
+            "ISR2": 19,
+            "ISR3": 3,
+            "avg_agents_density": 0.12230954591906025,
+            "runtime": 87.64847476400564
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09375,
+            "ISR": 0.1875,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.254678879711494,
+            "runtime": 948.8242712540023
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.24609375,
+            "ISR": 0.4921875,
+            "ISR2": 21,
+            "ISR3": 12,
+            "avg_agents_density": 0.14714295059507038,
+            "runtime": 112.09391265098702
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.19140625,
+            "ISR": 0.3828125,
+            "ISR2": 19,
+            "ISR3": 6,
+            "avg_agents_density": 0.11633571749065273,
+            "runtime": 82.58075130100269
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.267578125,
+            "ISR": 0.53515625,
+            "ISR2": 30,
+            "ISR3": 10,
+            "avg_agents_density": 0.15762427452355798,
+            "runtime": 127.04546324399553
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.234375,
+            "ISR": 0.46875,
+            "ISR2": 27,
+            "ISR3": 6,
+            "avg_agents_density": 0.1287439214583638,
+            "runtime": 86.0473817590173
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 1,
+            "ISR3": 1,
+            "avg_agents_density": 0.02614756912926862,
+            "runtime": 4.098407182995288
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.041015625,
+            "ISR": 0.65625,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.029693408940029906,
+            "runtime": 4.326907743992706
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.02441671046715418,
+            "runtime": 4.704354187015269
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.5625,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.028638394240032866,
+            "runtime": 4.12834012399253
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.6875,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.027479548532849826,
+            "runtime": 4.525539680984366
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0234375,
+            "ISR": 0.375,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.03037297889055702,
+            "runtime": 3.8319034770047438
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.028491576375284645,
+            "runtime": 3.9584173079783795
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.009765625,
+            "ISR": 0.15625,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.025702038906729327,
+            "runtime": 5.112456644998019
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.028091868731798243,
+            "runtime": 1.1452671659944826
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.027651753875136652,
+            "runtime": 3.989721726994503
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.060546875,
+            "ISR": 0.484375,
+            "ISR2": 3,
+            "ISR3": 3,
+            "avg_agents_density": 0.03933859417419253,
+            "runtime": 8.714886647996536
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.068359375,
+            "ISR": 0.546875,
+            "ISR2": 6,
+            "ISR3": 4,
+            "avg_agents_density": 0.0425591433664451,
+            "runtime": 8.374404285998025
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.046875,
+            "ISR": 0.375,
+            "ISR2": 3,
+            "ISR3": 2,
+            "avg_agents_density": 0.037651919074319674,
+            "runtime": 9.90910958600125
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.080078125,
+            "ISR": 0.640625,
+            "ISR2": 9,
+            "ISR3": 3,
+            "avg_agents_density": 0.04369933653395051,
+            "runtime": 9.580004991994429
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.048828125,
+            "ISR": 0.390625,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.04033309536907565,
+            "runtime": 8.38496726998892
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05078125,
+            "ISR": 0.40625,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.045897518533215206,
+            "runtime": 9.78326028399988
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0546875,
+            "ISR": 0.4375,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.04309109145652936,
+            "runtime": 8.2014271359958
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.21875,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.039074815158230955,
+            "runtime": 9.241394291996585
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.056640625,
+            "ISR": 0.453125,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.043809631522483905,
+            "runtime": 9.261034518000997
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.068359375,
+            "ISR": 0.546875,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.042864667291761756,
+            "runtime": 9.001381290000609
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.119140625,
+            "ISR": 0.4765625,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.0684945525993034,
+            "runtime": 20.529888898001445
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1640625,
+            "ISR": 0.65625,
+            "ISR2": 21,
+            "ISR3": 6,
+            "avg_agents_density": 0.07002679394358816,
+            "runtime": 23.849413565004397
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.103515625,
+            "ISR": 0.4140625,
+            "ISR2": 9,
+            "ISR3": 3,
+            "avg_agents_density": 0.06053226445906403,
+            "runtime": 23.869465953001963
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09375,
+            "ISR": 0.375,
+            "ISR2": 7,
+            "ISR3": 4,
+            "avg_agents_density": 0.07249707214618045,
+            "runtime": 20.27603187900968
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1015625,
+            "ISR": 0.40625,
+            "ISR2": 13,
+            "ISR3": 1,
+            "avg_agents_density": 0.06610201495011046,
+            "runtime": 23.854671352009063
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09765625,
+            "ISR": 0.390625,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.07757470367398081,
+            "runtime": 21.68960763999985
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 16,
+            "ISR3": 4,
+            "avg_agents_density": 0.0740089773424653,
+            "runtime": 19.683056222989762
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.08203125,
+            "ISR": 0.328125,
+            "ISR2": 7,
+            "ISR3": 2,
+            "avg_agents_density": 0.064684869546475,
+            "runtime": 26.11919162099548
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.142578125,
+            "ISR": 0.5703125,
+            "ISR2": 10,
+            "ISR3": 5,
+            "avg_agents_density": 0.07461917847046588,
+            "runtime": 20.15926406899598
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.130859375,
+            "ISR": 0.5234375,
+            "ISR2": 18,
+            "ISR3": 3,
+            "avg_agents_density": 0.06974762285630892,
+            "runtime": 20.055552159009494
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.236328125,
+            "ISR": 0.47265625,
+            "ISR2": 24,
+            "ISR3": 7,
+            "avg_agents_density": 0.12467408188725018,
+            "runtime": 101.18489379500488
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1953125,
+            "ISR": 0.390625,
+            "ISR2": 13,
+            "ISR3": 0,
+            "avg_agents_density": 0.19920037888141642,
+            "runtime": 510.40858626800264
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1796875,
+            "ISR": 0.359375,
+            "ISR2": 15,
+            "ISR3": 2,
+            "avg_agents_density": 0.15923504039445016,
+            "runtime": 188.73631606000117
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.251953125,
+            "ISR": 0.50390625,
+            "ISR2": 25,
+            "ISR3": 11,
+            "avg_agents_density": 0.1807310753186662,
+            "runtime": 107.82927420299984
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.271484375,
+            "ISR": 0.54296875,
+            "ISR2": 34,
+            "ISR3": 5,
+            "avg_agents_density": 0.11863983034706922,
+            "runtime": 81.45016723000845
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1171875,
+            "ISR": 0.234375,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.2885115533046839,
+            "runtime": 952.9166465619955
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.203125,
+            "ISR": 0.40625,
+            "ISR2": 23,
+            "ISR3": 0,
+            "avg_agents_density": 0.24733268508061598,
+            "runtime": 110.88545583099813
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.201171875,
+            "ISR": 0.40234375,
+            "ISR2": 11,
+            "ISR3": 4,
+            "avg_agents_density": 0.11597215739110756,
+            "runtime": 81.68177916800232
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.162109375,
+            "ISR": 0.32421875,
+            "ISR2": 9,
+            "ISR3": 2,
+            "avg_agents_density": 0.21732312690241443,
+            "runtime": 147.55483697999944
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.19921875,
+            "ISR": 0.3984375,
+            "ISR2": 15,
+            "ISR3": 3,
+            "avg_agents_density": 0.12463939424892745,
+            "runtime": 82.13552295700174
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.027681697427774543,
+            "runtime": 4.885215437005172
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.037109375,
+            "ISR": 0.59375,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.027188846811461293,
+            "runtime": 4.070141721994332
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.024530081044890167,
+            "runtime": 4.575719234994722
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.026876649378349316,
+            "runtime": 4.420370279981398
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.017578125,
+            "ISR": 0.28125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.028033585378225173,
+            "runtime": 4.038719583993952
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.03191489561348728,
+            "runtime": 4.025215231998118
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.03067068365339566,
+            "runtime": 3.9222774749987366
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.028017470080169228,
+            "runtime": 4.853474101007123
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0390625,
+            "ISR": 0.625,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.029131180246837977,
+            "runtime": 4.169376643002579
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.02936171038884614,
+            "runtime": 3.783975483001086
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.060546875,
+            "ISR": 0.484375,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.040560543108874955,
+            "runtime": 9.14722946602069
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.064453125,
+            "ISR": 0.515625,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.043717808786661864,
+            "runtime": 9.381046899007742
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0703125,
+            "ISR": 0.5625,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.03734394255393096,
+            "runtime": 8.789377831994898
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.048828125,
+            "ISR": 0.390625,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.04146752281450123,
+            "runtime": 8.369248705000246
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0546875,
+            "ISR": 0.4375,
+            "ISR2": 6,
+            "ISR3": 0,
+            "avg_agents_density": 0.0415660057009817,
+            "runtime": 8.67941878401598
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.052734375,
+            "ISR": 0.421875,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.04826117362270116,
+            "runtime": 7.822221094998895
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 5,
+            "ISR3": 1,
+            "avg_agents_density": 0.04466840292796378,
+            "runtime": 9.210680212984698
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05859375,
+            "ISR": 0.46875,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.04042377840427891,
+            "runtime": 9.459356564999325
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05859375,
+            "ISR": 0.46875,
+            "ISR2": 7,
+            "ISR3": 2,
+            "avg_agents_density": 0.044563220662334604,
+            "runtime": 7.2334458770046695
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.072265625,
+            "ISR": 0.578125,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.04342226605747366,
+            "runtime": 8.27603868600363
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 13,
+            "ISR3": 2,
+            "avg_agents_density": 0.06997105975645222,
+            "runtime": 23.257168639994234
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.126953125,
+            "ISR": 0.5078125,
+            "ISR2": 11,
+            "ISR3": 5,
+            "avg_agents_density": 0.07223791847206665,
+            "runtime": 21.673959232014568
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 11,
+            "ISR3": 5,
+            "avg_agents_density": 0.061462019161200206,
+            "runtime": 25.22419994399843
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.134765625,
+            "ISR": 0.5390625,
+            "ISR2": 12,
+            "ISR3": 7,
+            "avg_agents_density": 0.07043783494029077,
+            "runtime": 20.011110123000435
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.115234375,
+            "ISR": 0.4609375,
+            "ISR2": 12,
+            "ISR3": 1,
+            "avg_agents_density": 0.06914497780532328,
+            "runtime": 21.44902713100055
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.119140625,
+            "ISR": 0.4765625,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.08543322658725055,
+            "runtime": 25.867499771002258
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 10,
+            "ISR3": 6,
+            "avg_agents_density": 0.07526612528862914,
+            "runtime": 20.10811362199638
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.130859375,
+            "ISR": 0.5234375,
+            "ISR2": 18,
+            "ISR3": 3,
+            "avg_agents_density": 0.06619357778363189,
+            "runtime": 21.002210366995314
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 12,
+            "ISR3": 4,
+            "avg_agents_density": 0.07454754438969141,
+            "runtime": 19.76564171499649
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.07205979915303656,
+            "runtime": 22.53350648199921
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.212890625,
+            "ISR": 0.42578125,
+            "ISR2": 26,
+            "ISR3": 9,
+            "avg_agents_density": 0.1538330080238193,
+            "runtime": 154.11481688298954
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.181640625,
+            "ISR": 0.36328125,
+            "ISR2": 17,
+            "ISR3": 1,
+            "avg_agents_density": 0.18321120128635687,
+            "runtime": 443.9872893939928
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.15625,
+            "ISR": 0.3125,
+            "ISR2": 9,
+            "ISR3": 2,
+            "avg_agents_density": 0.16501950338446617,
+            "runtime": 156.0947198729873
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.236328125,
+            "ISR": 0.47265625,
+            "ISR2": 32,
+            "ISR3": 8,
+            "avg_agents_density": 0.18960953897725377,
+            "runtime": 111.08940712500589
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.244140625,
+            "ISR": 0.48828125,
+            "ISR2": 30,
+            "ISR3": 8,
+            "avg_agents_density": 0.12183664852003263,
+            "runtime": 86.8355084129953
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.130859375,
+            "ISR": 0.26171875,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.24041038468048428,
+            "runtime": 858.4900514280007
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.244140625,
+            "ISR": 0.48828125,
+            "ISR2": 31,
+            "ISR3": 3,
+            "avg_agents_density": 0.17812511224694147,
+            "runtime": 110.98606604801353
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.201171875,
+            "ISR": 0.40234375,
+            "ISR2": 21,
+            "ISR3": 5,
+            "avg_agents_density": 0.11600539840185553,
+            "runtime": 82.63560146899545
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.23046875,
+            "ISR": 0.4609375,
+            "ISR2": 23,
+            "ISR3": 8,
+            "avg_agents_density": 0.18412341003857652,
+            "runtime": 149.11494279399767
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.265625,
+            "ISR": 0.53125,
+            "ISR2": 30,
+            "ISR3": 7,
+            "avg_agents_density": 0.127475267030091,
+            "runtime": 82.00260824899942
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.015625,
+            "ISR": 0.25,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.02690507139633225,
+            "runtime": 4.627734905992838
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.5625,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.027922419005180905,
+            "runtime": 4.112897039993186
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0234375,
+            "ISR": 0.375,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.024648844527068427,
+            "runtime": 5.133496461992763
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.041015625,
+            "ISR": 0.65625,
+            "ISR2": 5,
+            "ISR3": 1,
+            "avg_agents_density": 0.02808730090622476,
+            "runtime": 4.044473907993961
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.02727268118257551,
+            "runtime": 4.268311350997465
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.03032365049084757,
+            "runtime": 4.454769494996981
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.5625,
+            "ISR2": 3,
+            "ISR3": 2,
+            "avg_agents_density": 0.02868539015237243,
+            "runtime": 4.135943718993076
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.4375,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.025692904240757836,
+            "runtime": 4.249103776001903
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.030886811529804374,
+            "runtime": 4.007224341995425
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01953125,
+            "ISR": 0.3125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.02871873870822932,
+            "runtime": 3.957723521995831
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.041015625,
+            "ISR": 0.328125,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.04112081703173868,
+            "runtime": 8.981857784000567
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.080078125,
+            "ISR": 0.640625,
+            "ISR2": 10,
+            "ISR3": 4,
+            "avg_agents_density": 0.04337840958469406,
+            "runtime": 7.990348042000733
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.056640625,
+            "ISR": 0.453125,
+            "ISR2": 6,
+            "ISR3": 0,
+            "avg_agents_density": 0.0371629463374348,
+            "runtime": 11.283951311996134
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.07421875,
+            "ISR": 0.59375,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.04233942210878634,
+            "runtime": 8.498347278004985
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.068359375,
+            "ISR": 0.546875,
+            "ISR2": 6,
+            "ISR3": 2,
+            "avg_agents_density": 0.0414180949629455,
+            "runtime": 9.18743008500951
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.068359375,
+            "ISR": 0.546875,
+            "ISR2": 10,
+            "ISR3": 3,
+            "avg_agents_density": 0.04557599445579299,
+            "runtime": 8.534039782978653
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0625,
+            "ISR": 0.5,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.04433632267293507,
+            "runtime": 8.972570793008344
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.34375,
+            "ISR2": 4,
+            "ISR3": 2,
+            "avg_agents_density": 0.039946247827327176,
+            "runtime": 9.81350882100105
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.07421875,
+            "ISR": 0.59375,
+            "ISR2": 7,
+            "ISR3": 2,
+            "avg_agents_density": 0.0436501418496369,
+            "runtime": 7.856471701010378
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05078125,
+            "ISR": 0.40625,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.04177156871789981,
+            "runtime": 9.539464628999667
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.11328125,
+            "ISR": 0.453125,
+            "ISR2": 12,
+            "ISR3": 2,
+            "avg_agents_density": 0.06796579129115622,
+            "runtime": 22.3938432040095
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1328125,
+            "ISR": 0.53125,
+            "ISR2": 14,
+            "ISR3": 4,
+            "avg_agents_density": 0.07062107779048564,
+            "runtime": 24.971970108007554
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.13671875,
+            "ISR": 0.546875,
+            "ISR2": 15,
+            "ISR3": 3,
+            "avg_agents_density": 0.059598280929387376,
+            "runtime": 23.91786497598423
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.111328125,
+            "ISR": 0.4453125,
+            "ISR2": 13,
+            "ISR3": 1,
+            "avg_agents_density": 0.07270050957334642,
+            "runtime": 20.69566327897428
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.130859375,
+            "ISR": 0.5234375,
+            "ISR2": 13,
+            "ISR3": 5,
+            "avg_agents_density": 0.06700208544597454,
+            "runtime": 21.470397090994084
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1484375,
+            "ISR": 0.59375,
+            "ISR2": 17,
+            "ISR3": 5,
+            "avg_agents_density": 0.0815395466323915,
+            "runtime": 25.41160245598985
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1171875,
+            "ISR": 0.46875,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.07241651788134638,
+            "runtime": 18.80830708799931
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09765625,
+            "ISR": 0.390625,
+            "ISR2": 10,
+            "ISR3": 0,
+            "avg_agents_density": 0.06625146579528568,
+            "runtime": 24.25217609601259
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.123046875,
+            "ISR": 0.4921875,
+            "ISR2": 15,
+            "ISR3": 3,
+            "avg_agents_density": 0.07311024628284157,
+            "runtime": 23.207868693993078
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.119140625,
+            "ISR": 0.4765625,
+            "ISR2": 12,
+            "ISR3": 2,
+            "avg_agents_density": 0.07094728248007534,
+            "runtime": 20.305480653983068
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.171875,
+            "ISR": 0.34375,
+            "ISR2": 9,
+            "ISR3": 0,
+            "avg_agents_density": 0.21273943233834636,
+            "runtime": 260.1475905520001
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.119140625,
+            "ISR": 0.23828125,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.20636416692821496,
+            "runtime": 839.2614722549915
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.109375,
+            "ISR": 0.21875,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.17039506018383316,
+            "runtime": 696.6992772819972
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.275390625,
+            "ISR": 0.55078125,
+            "ISR2": 30,
+            "ISR3": 10,
+            "avg_agents_density": 0.1319172864145777,
+            "runtime": 109.10770898100691
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.189453125,
+            "ISR": 0.37890625,
+            "ISR2": 18,
+            "ISR3": 5,
+            "avg_agents_density": 0.12023972797141873,
+            "runtime": 85.92833461599957
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.169921875,
+            "ISR": 0.33984375,
+            "ISR2": 18,
+            "ISR3": 0,
+            "avg_agents_density": 0.2992247099378805,
+            "runtime": 821.3994249650054
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.234375,
+            "ISR": 0.46875,
+            "ISR2": 28,
+            "ISR3": 6,
+            "avg_agents_density": 0.13270941381653767,
+            "runtime": 107.38976599300167
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.19921875,
+            "ISR": 0.3984375,
+            "ISR2": 21,
+            "ISR3": 7,
+            "avg_agents_density": 0.11668892358740057,
+            "runtime": 75.80441902198163
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.189453125,
+            "ISR": 0.37890625,
+            "ISR2": 13,
+            "ISR3": 1,
+            "avg_agents_density": 0.18946336119465393,
+            "runtime": 223.01498038999398
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.216796875,
+            "ISR": 0.43359375,
+            "ISR2": 22,
+            "ISR3": 5,
+            "avg_agents_density": 0.1270632865022187,
+            "runtime": 82.92338012599794
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.026225422398937458,
+            "runtime": 4.8541067180094615
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.6875,
+            "ISR2": 3,
+            "ISR3": 2,
+            "avg_agents_density": 0.029111118090431164,
+            "runtime": 3.6899418979992333
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.017578125,
+            "ISR": 0.28125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.025270974460931697,
+            "runtime": 4.632188490995759
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.02969664194590934,
+            "runtime": 4.000228362000598
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.026885634279424846,
+            "runtime": 4.30026298300163
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.71875,
+            "ISR2": 5,
+            "ISR3": 2,
+            "avg_agents_density": 0.032267522599877974,
+            "runtime": 3.9757402150034977
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.033203125,
+            "ISR": 0.53125,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.03129142295829051,
+            "runtime": 1.4519100100051219
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.026254258889943326,
+            "runtime": 4.081115228006638
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.046875,
+            "ISR": 0.75,
+            "ISR2": 5,
+            "ISR3": 1,
+            "avg_agents_density": 0.028820291884435686,
+            "runtime": 4.054929032985456
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.02896247234254307,
+            "runtime": 3.819049426001584
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.07421875,
+            "ISR": 0.59375,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.04159081732421926,
+            "runtime": 9.04177873799199
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.06640625,
+            "ISR": 0.53125,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.04336211456371237,
+            "runtime": 8.548318880000807
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.28125,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.036324991094510733,
+            "runtime": 10.55305481499363
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0546875,
+            "ISR": 0.4375,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.04454124174086934,
+            "runtime": 8.428818497003704
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.05859375,
+            "ISR": 0.46875,
+            "ISR2": 8,
+            "ISR3": 1,
+            "avg_agents_density": 0.04150722863974795,
+            "runtime": 8.74534657500044
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.08984375,
+            "ISR": 0.71875,
+            "ISR2": 11,
+            "ISR3": 3,
+            "avg_agents_density": 0.0506713238394175,
+            "runtime": 9.229872510996756
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.064453125,
+            "ISR": 0.515625,
+            "ISR2": 7,
+            "ISR3": 1,
+            "avg_agents_density": 0.04519400877408343,
+            "runtime": 8.047853030993792
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.044921875,
+            "ISR": 0.359375,
+            "ISR2": 3,
+            "ISR3": 2,
+            "avg_agents_density": 0.03948044109338761,
+            "runtime": 9.396108166992235
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.087890625,
+            "ISR": 0.703125,
+            "ISR2": 12,
+            "ISR3": 4,
+            "avg_agents_density": 0.044634444054177706,
+            "runtime": 8.317030755993983
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0390625,
+            "ISR": 0.3125,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.04418056607141115,
+            "runtime": 8.293207495021306
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12890625,
+            "ISR": 0.515625,
+            "ISR2": 8,
+            "ISR3": 5,
+            "avg_agents_density": 0.06735760314441208,
+            "runtime": 24.572381728002256
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.126953125,
+            "ISR": 0.5078125,
+            "ISR2": 12,
+            "ISR3": 5,
+            "avg_agents_density": 0.07287724671095785,
+            "runtime": 20.419788761001655
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.08203125,
+            "ISR": 0.328125,
+            "ISR2": 6,
+            "ISR3": 0,
+            "avg_agents_density": 0.06023731651066486,
+            "runtime": 22.96789510699
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12109375,
+            "ISR": 0.484375,
+            "ISR2": 11,
+            "ISR3": 2,
+            "avg_agents_density": 0.07503699240830249,
+            "runtime": 22.066693029002636
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09765625,
+            "ISR": 0.390625,
+            "ISR2": 8,
+            "ISR3": 0,
+            "avg_agents_density": 0.06837186781089101,
+            "runtime": 24.208953741001096
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1484375,
+            "ISR": 0.59375,
+            "ISR2": 14,
+            "ISR3": 3,
+            "avg_agents_density": 0.08238202210352559,
+            "runtime": 20.275653976002104
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.134765625,
+            "ISR": 0.5390625,
+            "ISR2": 12,
+            "ISR3": 3,
+            "avg_agents_density": 0.07686314036831197,
+            "runtime": 22.853620400006548
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.068359375,
+            "ISR": 0.2734375,
+            "ISR2": 8,
+            "ISR3": 0,
+            "avg_agents_density": 0.06600869002852522,
+            "runtime": 21.337372377985048
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.142578125,
+            "ISR": 0.5703125,
+            "ISR2": 15,
+            "ISR3": 4,
+            "avg_agents_density": 0.0754704542807075,
+            "runtime": 20.346704268990834
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12890625,
+            "ISR": 0.515625,
+            "ISR2": 13,
+            "ISR3": 4,
+            "avg_agents_density": 0.0726144110625125,
+            "runtime": 20.714661905019057
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.177734375,
+            "ISR": 0.35546875,
+            "ISR2": 18,
+            "ISR3": 2,
+            "avg_agents_density": 0.18442883705405896,
+            "runtime": 181.91844076399866
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.138671875,
+            "ISR": 0.27734375,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.21705290088017445,
+            "runtime": 309.1142446009999
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.185546875,
+            "ISR": 0.37109375,
+            "ISR2": 14,
+            "ISR3": 4,
+            "avg_agents_density": 0.11634552671735382,
+            "runtime": 160.13234549298977
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.21484375,
+            "ISR": 0.4296875,
+            "ISR2": 21,
+            "ISR3": 6,
+            "avg_agents_density": 0.1356883869580249,
+            "runtime": 116.11056537399872
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.20703125,
+            "ISR": 0.4140625,
+            "ISR2": 23,
+            "ISR3": 4,
+            "avg_agents_density": 0.11982601812716348,
+            "runtime": 82.52329306201045
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.146484375,
+            "ISR": 0.29296875,
+            "ISR2": 8,
+            "ISR3": 0,
+            "avg_agents_density": 0.27935023466969516,
+            "runtime": 897.7771739790187
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.2578125,
+            "ISR": 0.515625,
+            "ISR2": 29,
+            "ISR3": 6,
+            "avg_agents_density": 0.13706106065787024,
+            "runtime": 94.31882966799276
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.16015625,
+            "ISR": 0.3203125,
+            "ISR2": 13,
+            "ISR3": 4,
+            "avg_agents_density": 0.11738171663731448,
+            "runtime": 82.80354368199824
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.279296875,
+            "ISR": 0.55859375,
+            "ISR2": 32,
+            "ISR3": 6,
+            "avg_agents_density": 0.14562636835210638,
+            "runtime": 172.9128786149895
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.228515625,
+            "ISR": 0.45703125,
+            "ISR2": 24,
+            "ISR3": 8,
+            "avg_agents_density": 0.12982708282956293,
+            "runtime": 75.02872405800099
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.026050803316432964,
+            "runtime": 4.258345615988219
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.037109375,
+            "ISR": 0.59375,
+            "ISR2": 4,
+            "ISR3": 0,
+            "avg_agents_density": 0.028420137118778773,
+            "runtime": 3.9751999009995416
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.01171875,
+            "ISR": 0.1875,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.024825742779668,
+            "runtime": 4.728679825000654
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.025390625,
+            "ISR": 0.40625,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.02891176264957332,
+            "runtime": 4.1741436899910696
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.033203125,
+            "ISR": 0.53125,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.026755215228464416,
+            "runtime": 4.236773757005722
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03125,
+            "ISR": 0.5,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.029908758236381335,
+            "runtime": 4.762445247002688
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.013671875,
+            "ISR": 0.21875,
+            "ISR2": 2,
+            "ISR3": 0,
+            "avg_agents_density": 0.028182326304886915,
+            "runtime": 3.668719205016714
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.029296875,
+            "ISR": 0.46875,
+            "ISR2": 2,
+            "ISR3": 1,
+            "avg_agents_density": 0.0257036568377133,
+            "runtime": 4.724773158995049
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.041015625,
+            "ISR": 0.65625,
+            "ISR2": 6,
+            "ISR3": 3,
+            "avg_agents_density": 0.029080995551564227,
+            "runtime": 3.7491005699885136
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.021484375,
+            "ISR": 0.34375,
+            "ISR2": 1,
+            "ISR3": 0,
+            "avg_agents_density": 0.028258850049570943,
+            "runtime": 4.294728436991136
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.02734375,
+            "ISR": 0.21875,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.03945070409078969,
+            "runtime": 9.122610747004728
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.080078125,
+            "ISR": 0.640625,
+            "ISR2": 8,
+            "ISR3": 3,
+            "avg_agents_density": 0.04499853138098688,
+            "runtime": 8.153099603004193
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.34375,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.03665404659454637,
+            "runtime": 11.20581797200066
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0625,
+            "ISR": 0.5,
+            "ISR2": 4,
+            "ISR3": 1,
+            "avg_agents_density": 0.04379451554424643,
+            "runtime": 7.730985448987667
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0390625,
+            "ISR": 0.3125,
+            "ISR2": 3,
+            "ISR3": 0,
+            "avg_agents_density": 0.04008433667464296,
+            "runtime": 8.244445756999994
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0703125,
+            "ISR": 0.5625,
+            "ISR2": 8,
+            "ISR3": 0,
+            "avg_agents_density": 0.0477168411902016,
+            "runtime": 10.493546285990305
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.04296875,
+            "ISR": 0.34375,
+            "ISR2": 5,
+            "ISR3": 0,
+            "avg_agents_density": 0.044401049187138775,
+            "runtime": 8.706307977999131
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.056640625,
+            "ISR": 0.453125,
+            "ISR2": 3,
+            "ISR3": 1,
+            "avg_agents_density": 0.039132444509190366,
+            "runtime": 10.336188903994298
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.0625,
+            "ISR": 0.5,
+            "ISR2": 6,
+            "ISR3": 1,
+            "avg_agents_density": 0.044155166071863365,
+            "runtime": 7.55384682699696
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.03515625,
+            "ISR": 0.28125,
+            "ISR2": 0,
+            "ISR3": 0,
+            "avg_agents_density": 0.04198611426890199,
+            "runtime": 8.082061463990613
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.08984375,
+            "ISR": 0.359375,
+            "ISR2": 9,
+            "ISR3": 1,
+            "avg_agents_density": 0.06638974152190533,
+            "runtime": 25.09884831299769
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.12890625,
+            "ISR": 0.515625,
+            "ISR2": 13,
+            "ISR3": 5,
+            "avg_agents_density": 0.07446035465264297,
+            "runtime": 20.06007192101697
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09765625,
+            "ISR": 0.390625,
+            "ISR2": 10,
+            "ISR3": 4,
+            "avg_agents_density": 0.06226295110852238,
+            "runtime": 23.723791794989666
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.115234375,
+            "ISR": 0.4609375,
+            "ISR2": 10,
+            "ISR3": 5,
+            "avg_agents_density": 0.071675821282017,
+            "runtime": 20.3775243410073
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.111328125,
+            "ISR": 0.4453125,
+            "ISR2": 16,
+            "ISR3": 5,
+            "avg_agents_density": 0.06817916480079547,
+            "runtime": 19.249414428996715
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.140625,
+            "ISR": 0.5625,
+            "ISR2": 16,
+            "ISR3": 4,
+            "avg_agents_density": 0.08243007028245761,
+            "runtime": 21.50365792600769
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09375,
+            "ISR": 0.375,
+            "ISR2": 9,
+            "ISR3": 2,
+            "avg_agents_density": 0.07480677970264205,
+            "runtime": 23.839428579001833
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.09765625,
+            "ISR": 0.390625,
+            "ISR2": 8,
+            "ISR3": 3,
+            "avg_agents_density": 0.06400546699434341,
+            "runtime": 19.672121451992098
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.14453125,
+            "ISR": 0.578125,
+            "ISR2": 20,
+            "ISR3": 6,
+            "avg_agents_density": 0.072344915516086,
+            "runtime": 22.719629512987012
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.107421875,
+            "ISR": 0.4296875,
+            "ISR2": 8,
+            "ISR3": 1,
+            "avg_agents_density": 0.06964756540629016,
+            "runtime": 19.96304366000186
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.19921875,
+            "ISR": 0.3984375,
+            "ISR2": 17,
+            "ISR3": 5,
+            "avg_agents_density": 0.12707503838044015,
+            "runtime": 153.77108205199238
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s40_wc4_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.185546875,
+            "ISR": 0.37109375,
+            "ISR2": 16,
+            "ISR3": 6,
+            "avg_agents_density": 0.21507775652765365,
+            "runtime": 205.2897672429981
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s41_wc5_od50"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.20703125,
+            "ISR": 0.4140625,
+            "ISR2": 19,
+            "ISR3": 4,
+            "avg_agents_density": 0.10994067990231816,
+            "runtime": 110.61268839100558
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s42_wc7_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.23828125,
+            "ISR": 0.4765625,
+            "ISR2": 24,
+            "ISR3": 5,
+            "avg_agents_density": 0.13385790158670782,
+            "runtime": 101.14179971199974
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s43_wc2_od45"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1953125,
+            "ISR": 0.390625,
+            "ISR2": 20,
+            "ISR3": 4,
+            "avg_agents_density": 0.1196492676427791,
+            "runtime": 85.56762991299547
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s44_wc2_od30"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.162109375,
+            "ISR": 0.32421875,
+            "ISR2": 10,
+            "ISR3": 1,
+            "avg_agents_density": 0.26093431061828254,
+            "runtime": 912.9858867229996
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s45_wc4_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.25390625,
+            "ISR": 0.5078125,
+            "ISR2": 27,
+            "ISR3": 8,
+            "avg_agents_density": 0.14325749431871723,
+            "runtime": 112.9602760559992
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s46_wc2_od55"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.1953125,
+            "ISR": 0.390625,
+            "ISR2": 17,
+            "ISR3": 2,
+            "avg_agents_density": 0.1159453986397211,
+            "runtime": 83.95092408699747
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s47_wc2_od25"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.185546875,
+            "ISR": 0.37109375,
+            "ISR2": 15,
+            "ISR3": 7,
+            "avg_agents_density": 0.17581690569843633,
+            "runtime": 127.56528069900605
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s48_wc3_od65"
+        },
+        "algorithm": "RHCR"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.24609375,
+            "ISR": 0.4921875,
+            "ISR2": 30,
+            "ISR3": 6,
+            "avg_agents_density": 0.12283770622407547,
+            "runtime": 80.24499114799892
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "test-mazes-s49_wc2_od50"
+        },
+        "algorithm": "RHCR"
+    }
+]

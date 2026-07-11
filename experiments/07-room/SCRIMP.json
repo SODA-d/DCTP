@@ -1,0 +1,642 @@
+[
+    {
+        "metrics": {
+            "avg_throughput": 0.333984375,
+            "ISR": 5.34375,
+            "ISR2": 29,
+            "ISR3": 29,
+            "avg_agents_density": 0.023101923704645092,
+            "runtime": 421.0481311973417
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.6484375,
+            "ISR": 5.1875,
+            "ISR2": 61,
+            "ISR3": 59,
+            "avg_agents_density": 0.04174262776480129,
+            "runtime": 856.5723566624802
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.677734375,
+            "ISR": 2.7109375,
+            "ISR2": 79,
+            "ISR3": 55,
+            "avg_agents_density": 0.16075929080681758,
+            "runtime": 2138.4806589136133
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.462890625,
+            "ISR": 0.92578125,
+            "ISR2": 55,
+            "ISR3": 28,
+            "avg_agents_density": 0.34879674928158777,
+            "runtime": 6616.838926324504
+        },
+        "env_grid_search": {
+            "seed": 0,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.30859375,
+            "ISR": 4.9375,
+            "ISR2": 30,
+            "ISR3": 29,
+            "avg_agents_density": 0.02175947955099121,
+            "runtime": 415.9194783004932
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.6484375,
+            "ISR": 5.1875,
+            "ISR2": 61,
+            "ISR3": 60,
+            "avg_agents_density": 0.03572000936376133,
+            "runtime": 850.6432268496137
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.96875,
+            "ISR": 3.875,
+            "ISR2": 111,
+            "ISR3": 98,
+            "avg_agents_density": 0.10335132101483126,
+            "runtime": 1910.6517445588252
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.58203125,
+            "ISR": 1.1640625,
+            "ISR2": 89,
+            "ISR3": 28,
+            "avg_agents_density": 0.32850964135581123,
+            "runtime": 6296.511990648927
+        },
+        "env_grid_search": {
+            "seed": 1,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.3515625,
+            "ISR": 5.625,
+            "ISR2": 32,
+            "ISR3": 30,
+            "avg_agents_density": 0.02131293907304209,
+            "runtime": 406.4831363230478
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.732421875,
+            "ISR": 5.859375,
+            "ISR2": 64,
+            "ISR3": 59,
+            "avg_agents_density": 0.03588693372100536,
+            "runtime": 802.5228755669668
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.4296875,
+            "ISR": 1.71875,
+            "ISR2": 62,
+            "ISR3": 37,
+            "avg_agents_density": 0.21479935564105926,
+            "runtime": 2280.0323768614326
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.62890625,
+            "ISR": 1.2578125,
+            "ISR2": 87,
+            "ISR3": 44,
+            "avg_agents_density": 0.32289413572087894,
+            "runtime": 6313.3182065875735
+        },
+        "env_grid_search": {
+            "seed": 2,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.31640625,
+            "ISR": 5.0625,
+            "ISR2": 29,
+            "ISR3": 27,
+            "avg_agents_density": 0.02184092932034431,
+            "runtime": 402.2744357852498
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.6640625,
+            "ISR": 5.3125,
+            "ISR2": 61,
+            "ISR3": 56,
+            "avg_agents_density": 0.037191368741160226,
+            "runtime": 850.1501188005786
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.98046875,
+            "ISR": 3.921875,
+            "ISR2": 110,
+            "ISR3": 92,
+            "avg_agents_density": 0.10737070998220413,
+            "runtime": 1972.6481926850975
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.564453125,
+            "ISR": 1.12890625,
+            "ISR2": 73,
+            "ISR3": 35,
+            "avg_agents_density": 0.34959096689888136,
+            "runtime": 6533.403596821125
+        },
+        "env_grid_search": {
+            "seed": 3,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.3359375,
+            "ISR": 5.375,
+            "ISR2": 31,
+            "ISR3": 30,
+            "avg_agents_density": 0.022514050385091654,
+            "runtime": 412.90162272762973
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.6640625,
+            "ISR": 5.3125,
+            "ISR2": 63,
+            "ISR3": 61,
+            "avg_agents_density": 0.03618423945279151,
+            "runtime": 819.0605487342691
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.716796875,
+            "ISR": 2.8671875,
+            "ISR2": 91,
+            "ISR3": 62,
+            "avg_agents_density": 0.15992124465409663,
+            "runtime": 2124.2773665187415
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.3671875,
+            "ISR": 0.734375,
+            "ISR2": 43,
+            "ISR3": 14,
+            "avg_agents_density": 0.3471195482235134,
+            "runtime": 6869.163143979968
+        },
+        "env_grid_search": {
+            "seed": 4,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.345703125,
+            "ISR": 5.53125,
+            "ISR2": 32,
+            "ISR3": 31,
+            "avg_agents_density": 0.022207482377419912,
+            "runtime": 400.6704682162963
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.6484375,
+            "ISR": 5.1875,
+            "ISR2": 63,
+            "ISR3": 57,
+            "avg_agents_density": 0.03636800606240022,
+            "runtime": 805.9538808770012
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.796875,
+            "ISR": 3.1875,
+            "ISR2": 88,
+            "ISR3": 65,
+            "avg_agents_density": 0.14695043209696532,
+            "runtime": 2107.526700691087
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.626953125,
+            "ISR": 1.25390625,
+            "ISR2": 84,
+            "ISR3": 42,
+            "avg_agents_density": 0.34505411207205955,
+            "runtime": 6343.948663149495
+        },
+        "env_grid_search": {
+            "seed": 5,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.349609375,
+            "ISR": 5.59375,
+            "ISR2": 31,
+            "ISR3": 29,
+            "avg_agents_density": 0.021875031554249483,
+            "runtime": 406.81564598705154
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.640625,
+            "ISR": 5.125,
+            "ISR2": 61,
+            "ISR3": 55,
+            "avg_agents_density": 0.03598505087268749,
+            "runtime": 808.5742896305164
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.91015625,
+            "ISR": 3.640625,
+            "ISR2": 109,
+            "ISR3": 79,
+            "avg_agents_density": 0.11794206452860144,
+            "runtime": 1992.2323638026137
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.5703125,
+            "ISR": 1.140625,
+            "ISR2": 73,
+            "ISR3": 36,
+            "avg_agents_density": 0.34022222724138185,
+            "runtime": 6491.825132112717
+        },
+        "env_grid_search": {
+            "seed": 6,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.357421875,
+            "ISR": 5.71875,
+            "ISR2": 32,
+            "ISR3": 29,
+            "avg_agents_density": 0.021912515697975168,
+            "runtime": 415.7621438690694
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.7578125,
+            "ISR": 6.0625,
+            "ISR2": 64,
+            "ISR3": 61,
+            "avg_agents_density": 0.03618110356513011,
+            "runtime": 812.4026689362945
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.626953125,
+            "ISR": 2.5078125,
+            "ISR2": 74,
+            "ISR3": 52,
+            "avg_agents_density": 0.18452529775105275,
+            "runtime": 2219.691317339544
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.544921875,
+            "ISR": 1.08984375,
+            "ISR2": 72,
+            "ISR3": 40,
+            "avg_agents_density": 0.3508625571993513,
+            "runtime": 6562.2784584466135
+        },
+        "env_grid_search": {
+            "seed": 7,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.36328125,
+            "ISR": 5.8125,
+            "ISR2": 30,
+            "ISR3": 30,
+            "avg_agents_density": 0.023438883171583578,
+            "runtime": 414.00019409589004
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.6953125,
+            "ISR": 5.5625,
+            "ISR2": 63,
+            "ISR3": 59,
+            "avg_agents_density": 0.03739014114112267,
+            "runtime": 807.5836634946754
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.9296875,
+            "ISR": 3.71875,
+            "ISR2": 112,
+            "ISR3": 83,
+            "avg_agents_density": 0.1164771429423864,
+            "runtime": 1984.3154516755603
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.541015625,
+            "ISR": 1.08203125,
+            "ISR2": 67,
+            "ISR3": 25,
+            "avg_agents_density": 0.3187782494961243,
+            "runtime": 6386.78980746062
+        },
+        "env_grid_search": {
+            "seed": 8,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.34765625,
+            "ISR": 5.5625,
+            "ISR2": 32,
+            "ISR3": 31,
+            "avg_agents_density": 0.023304855033834348,
+            "runtime": 409.52923011779785
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 32,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.697265625,
+            "ISR": 5.578125,
+            "ISR2": 63,
+            "ISR3": 62,
+            "avg_agents_density": 0.038516658948549325,
+            "runtime": 854.412737190607
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 64,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.83203125,
+            "ISR": 3.328125,
+            "ISR2": 101,
+            "ISR3": 71,
+            "avg_agents_density": 0.1366646051950966,
+            "runtime": 2056.5671521475306
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 128,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    },
+    {
+        "metrics": {
+            "avg_throughput": 0.462890625,
+            "ISR": 0.92578125,
+            "ISR2": 64,
+            "ISR3": 26,
+            "avg_agents_density": 0.38718641434685747,
+            "runtime": 6701.742646604311
+        },
+        "env_grid_search": {
+            "seed": 9,
+            "num_agents": 256,
+            "map_name": "room-64-64-16"
+        },
+        "algorithm": "SCRIMP"
+    }
+]
