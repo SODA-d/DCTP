@@ -3,7 +3,7 @@
 Conda environment download:
 
 ```
-https://pan.quark.cn/s/fddd72bca101
+https://pan.quark.cn/s/9bb36810e143?pwd=dES7
 ```
 
 
